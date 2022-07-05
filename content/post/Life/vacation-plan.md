@@ -11,16 +11,16 @@ draft: false
 | ------------------ | ---------------------------------------------- |
 | **5:30**           | **get up**                                     |
 | 1h30min            | [exercise](#exercise)                          |
+| _30min_            | _breakfast_                                    |
 | 1h                 | [calligraphy](#calligraphy)                    |
 | 30min              | [music](#music)                                |
-| _30min_            | _breakfast_                                    |
 | WHILE(1h, 15min)   | study, break                                   |
 | _30min_            | _lunch_                                        |
 | WHILE(1h, 15min)   | study, break                                   |
 | 1h30min            | computer science                               |
-| _30min_            | _dinner_                                       |
-| **_dinner_~19:50** | break                                          |
 | 1h                 | [reading](#reading)                                        |
+| _30min_            | _dinner_                                       |
+| **_dinner_~20:50** | break                                          |
 | 1h                 | reciting <br/> _Chinese/history/chemistry/..._ |
 | **21:50**          | **go to bed**                                  |
 
