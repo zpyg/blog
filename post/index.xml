@@ -15,16 +15,16 @@
 &lt;td>&lt;a class="link" href="#exercise" >exercise&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td>&lt;em>30min&lt;/em>&lt;/td>
+&lt;td>&lt;em>breakfast&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td>1h&lt;/td>
 &lt;td>&lt;a class="link" href="#calligraphy" >calligraphy&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>30min&lt;/td>
 &lt;td>&lt;a class="link" href="#music" >music&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>&lt;em>30min&lt;/em>&lt;/td>
-&lt;td>&lt;em>breakfast&lt;/em>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>WHILE(1h, 15min)&lt;/td>
@@ -43,16 +43,16 @@
 &lt;td>computer science&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td>1h&lt;/td>
+&lt;td>&lt;a class="link" href="#reading" >reading&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td>&lt;em>30min&lt;/em>&lt;/td>
 &lt;td>&lt;em>dinner&lt;/em>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;strong>&lt;em>dinner&lt;/em>~19:50&lt;/strong>&lt;/td>
+&lt;td>&lt;strong>&lt;em>dinner&lt;/em>~20:50&lt;/strong>&lt;/td>
 &lt;td>break&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>1h&lt;/td>
-&lt;td>&lt;a class="link" href="#reading" >reading&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>1h&lt;/td>
