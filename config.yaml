@@ -129,7 +129,7 @@ menu:
         icon: brand-qq
     - identifier: weixin
       name: WeiXin
-      url: weixin.html
+      url: /weixin.html
       params:
         icon: brand-weixin
 
