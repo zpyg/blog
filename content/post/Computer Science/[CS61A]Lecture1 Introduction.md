@@ -8,7 +8,7 @@ tags:
   - SICP
   - note
 date: 2022-07-06T18:00:54+08:00
-draft: true
+draft: false
 ---
 
 - [website](https://inst.eecs.berkeley.edu/~cs61a/sp21/)
