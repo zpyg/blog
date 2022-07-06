@@ -27,7 +27,7 @@
 &lt;td>&lt;a class="link" href="#music" >music&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>WHILE(1h, 15min)&lt;/td>
+&lt;td>&lt;strong>9:30 ~ WHILE(1h, 15min)&lt;/strong>&lt;/td>
 &lt;td>study, break&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -51,7 +51,7 @@
 &lt;td>&lt;em>dinner&lt;/em>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;strong>&lt;em>dinner&lt;/em>~20:50&lt;/strong>&lt;/td>
+&lt;td>&lt;strong>dinner ~ 20:50&lt;/strong>&lt;/td>
 &lt;td>break&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -95,6 +95,45 @@ allowfullscreen="true"
 &lt;/ul>
 &lt;div class="video-wrapper">
 &lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1hE411V77S"
+scrolling="no"
+frameborder="no"
+framespacing="0"
+allowfullscreen="true"
+>
+&lt;/iframe>
+&lt;/div>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://www.bilibili.com/video/BV14K4y1W7iQ" target="_blank" rel="noopener"
+>俯卧撑&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;div class="video-wrapper">
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV14K4y1W7iQ"
+scrolling="no"
+frameborder="no"
+framespacing="0"
+allowfullscreen="true"
+>
+&lt;/iframe>
+&lt;/div>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://www.bilibili.com/video/BV17Y4y1E7oX" target="_blank" rel="noopener"
+>脊柱活动&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;div class="video-wrapper">
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV17Y4y1E7oX"
+scrolling="no"
+frameborder="no"
+framespacing="0"
+allowfullscreen="true"
+>
+&lt;/iframe>
+&lt;/div>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://www.bilibili.com/video/BV1Wr4y1a7me" target="_blank" rel="noopener"
+>颈部活动&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;div class="video-wrapper">
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1Wr4y1a7me"
 scrolling="no"
 frameborder="no"
 framespacing="0"
@@ -337,7 +376,7 @@ allowfullscreen="true"
 >偏旁结构 1&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;div class="video-wrapper">
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1oT4y1971w"
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV12S4y1H7sA"
 scrolling="no"
 frameborder="no"
 framespacing="0"
