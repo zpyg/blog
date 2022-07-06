@@ -27,16 +27,16 @@
 &lt;td>&lt;a class="link" href="#music" >music&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;strong>9:30 ~ WHILE(1h, 15min)&lt;/strong>&lt;/td>
-&lt;td>study, break&lt;/td>
+&lt;td>&lt;strong>9:30 ~ WHILE(50min, 10min, 15min)&lt;/strong>&lt;/td>
+&lt;td>study, short break, long break&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>&lt;em>30min&lt;/em>&lt;/td>
 &lt;td>&lt;em>lunch&lt;/em>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>WHILE(1h, 15min)&lt;/td>
-&lt;td>study, break&lt;/td>
+&lt;td>WHILE(50min, 10min, 15min)&lt;/td>
+&lt;td>study, short break, long break&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>1h30min&lt;/td>
