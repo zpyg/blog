@@ -7,22 +7,22 @@ date: 2022-06-28T19:38:24+08:00
 draft: false
 ---
 
-| TIME               | TASK                                           |
-| ------------------ | ---------------------------------------------- |
-| **5:30**           | **get up**                                     |
-| 1h30min            | [exercise](#exercise)                          |
-| _30min_            | _breakfast_                                    |
-| 1h                 | [calligraphy](#calligraphy)                    |
-| 30min              | [music](#music)                                |
-| WHILE(1h, 15min)   | study, break                                   |
-| _30min_            | _lunch_                                        |
-| WHILE(1h, 15min)   | study, break                                   |
-| 1h30min            | computer science                               |
-| 1h                 | [reading](#reading)                                        |
-| _30min_            | _dinner_                                       |
-| **_dinner_~20:50** | break                                          |
-| 1h                 | reciting <br/> _Chinese/history/chemistry/..._ |
-| **21:50**          | **go to bed**                                  |
+| TIME                        | TASK                                           |
+| --------------------------- | ---------------------------------------------- |
+| **5:30**                    | **get up**                                     |
+| 1h30min                     | [exercise](#exercise)                          |
+| _30min_                     | _breakfast_                                    |
+| 1h                          | [calligraphy](#calligraphy)                    |
+| 30min                       | [music](#music)                                |
+| **9:30 ~ WHILE(1h, 15min)** | study, break                                   |
+| _30min_                     | _lunch_                                        |
+| WHILE(1h, 15min)            | study, break                                   |
+| 1h30min                     | computer science                               |
+| 1h                          | [reading](#reading)                            |
+| _30min_                     | _dinner_                                       |
+| **dinner ~ 20:50**          | break                                          |
+| 1h                          | reciting <br/> _Chinese/history/chemistry/..._ |
+| **21:50**                   | **go to bed**                                  |
 
 ## exercise
 
@@ -38,13 +38,25 @@ draft: false
 
 {{< bilibili BV1hE411V77S >}}
 
+- [俯卧撑](https://www.bilibili.com/video/BV14K4y1W7iQ)
+
+{{< bilibili BV14K4y1W7iQ >}}
+
+- [脊柱活动](https://www.bilibili.com/video/BV17Y4y1E7oX)
+
+{{< bilibili BV17Y4y1E7oX >}}
+
+- [颈部活动](https://www.bilibili.com/video/BV1Wr4y1a7me)
+
+{{< bilibili BV1Wr4y1a7me >}}
+
 ## music
 
 - [声乐](https://space.bilibili.com/540564177/channel/seriesdetail?sid=217891)(不杀猪
 - [乐理](https://www.bilibili.com/video/BV1Hg411w7n2)(能看懂谱
 - 电子琴(能把音认对
-{{< bilibili BV1RT4y1o76N >}}
-{{< bilibili BV1jB4y1D7PD >}}
+  {{< bilibili BV1RT4y1o76N >}}
+  {{< bilibili BV1jB4y1D7PD >}}
 
 ## computer science
 
@@ -123,7 +135,7 @@ draft: false
 
 - [偏旁结构 1](https://www.bilibili.com/video/BV12S4y1H7sA)
 
-{{< bilibili BV1oT4y1971w >}}
+{{< bilibili BV12S4y1H7sA >}}
 
 - [字帖视频](https://www.bilibili.com/video/BV1oT4y1971w)
 
@@ -245,7 +257,7 @@ _暑假先看学过的_
 
 ## physics
 
-+ https://space.bilibili.com/299200219/video
+- https://space.bilibili.com/299200219/video
 
 ### homework
 
