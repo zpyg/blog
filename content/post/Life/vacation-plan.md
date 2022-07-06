@@ -7,22 +7,22 @@ date: 2022-06-28T19:38:24+08:00
 draft: false
 ---
 
-| TIME                        | TASK                                           |
-| --------------------------- | ---------------------------------------------- |
-| **5:30**                    | **get up**                                     |
-| 1h30min                     | [exercise](#exercise)                          |
-| _30min_                     | _breakfast_                                    |
-| 1h                          | [calligraphy](#calligraphy)                    |
-| 30min                       | [music](#music)                                |
-| **9:30 ~ WHILE(1h, 15min)** | study, break                                   |
-| _30min_                     | _lunch_                                        |
-| WHILE(1h, 15min)            | study, break                                   |
-| 1h30min                     | computer science                               |
-| 1h                          | [reading](#reading)                            |
-| _30min_                     | _dinner_                                       |
-| **dinner ~ 20:50**          | break                                          |
-| 1h                          | reciting <br/> _Chinese/history/chemistry/..._ |
-| **21:50**                   | **go to bed**                                  |
+| TIME                                  | TASK                                           |
+| ------------------------------------- | ---------------------------------------------- |
+| **5:30**                              | **get up**                                     |
+| 1h30min                               | [exercise](#exercise)                          |
+| _30min_                               | _breakfast_                                    |
+| 1h                                    | [calligraphy](#calligraphy)                    |
+| 30min                                 | [music](#music)                                |
+| **9:30 ~ WHILE(50min, 10min, 15min)** | study, short break, long break                 |
+| _30min_                               | _lunch_                                        |
+| WHILE(50min, 10min, 15min)            | study, short break, long break                 |
+| 1h30min                               | computer science                               |
+| 1h                                    | [reading](#reading)                            |
+| _30min_                               | _dinner_                                       |
+| **dinner ~ 20:50**                    | break                                          |
+| 1h                                    | reciting <br/> _Chinese/history/chemistry/..._ |
+| **21:50**                             | **go to bed**                                  |
 
 ## exercise
 
