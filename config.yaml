@@ -104,6 +104,12 @@ menu:
   main: []
 
   social:
+    - identifier: email
+      name: Email
+      url: mailto:pu.mb@qq.com
+      params:
+        icon: envelope-solid
+
     - identifier: github
       name: GitHub
       url: https://github.com/zpyg
@@ -127,6 +133,7 @@ menu:
       url: https://qm.qq.com/cgi-bin/qm/qr?k=b8SSH9x81dQ5Li7yVaAfV4j75cFjg3i1&noverify=0
       params:
         icon: brand-qq
+
     - identifier: weixin
       name: WeiXin
       url: /weixin.html

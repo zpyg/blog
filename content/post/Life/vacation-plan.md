@@ -73,6 +73,25 @@ draft: false
 - opencv
 - matplotlib
 
+## calligraphy
+
+### 汉字(行书+楷书)
+
+- [基本笔画](https://www.bilibili.com/video/BV1JY4y157S5)
+
+{{< bilibili BV1JY4y157S5 >}}
+
+- [偏旁结构 1](https://www.bilibili.com/video/BV12S4y1H7sA)
+
+{{< bilibili BV12S4y1H7sA >}}
+
+- [字帖视频](https://www.bilibili.com/video/BV1oT4y1971w)
+
+### 英语(意大利斜体)
+
+- [于佩安-字母](https://www.bilibili.com/video/BV1oJ41117tF)
+- [连写](https://www.bilibili.com/video/BV1Xy4y1E7mE)
+
 ## Chinese
 
 - 万维现代文 (0/14)
@@ -127,17 +146,6 @@ draft: false
 </details>
 <!- }}} ->
 
-### calligraphy
-
-- [基本笔画](https://www.bilibili.com/video/BV1JY4y157S5)
-
-{{< bilibili BV1JY4y157S5 >}}
-
-- [偏旁结构 1](https://www.bilibili.com/video/BV12S4y1H7sA)
-
-{{< bilibili BV12S4y1H7sA >}}
-
-- [字帖视频](https://www.bilibili.com/video/BV1oT4y1971w)
 
 ### reading
 
@@ -153,6 +161,7 @@ draft: false
 ## math
 
 _暑假先看学过的_
+多做题
 
 - [一数复习](https://www.bilibili.com/video/BV1qE411H7Uv)
 - [一数每日一题](https://www.bilibili.com/video/BV1t7411y7qh)
@@ -228,11 +237,11 @@ _暑假先看学过的_
 - [音标](https://www.bilibili.com/video/BV1iV411z7Nj)
 - [语音](https://space.bilibili.com/483162496/channel/seriesdetail?sid=292492)
 
-再读个英文版的 _C++ Primer_ 或者 _A Tour of C++_？还是给开源项目更新下 document?
+[CS61A + English SICP Python](https://zpyg.github.io/blog/p/cs61alecture1-introduction/)(这也是 English Movie 吧)
 
 ### homework
 
-- 学个英文歌?
+- 学个英文歌，要不就 _Empty World_?
 - due:8.01 复习计划
 - begin:8.20 一起作业预习
 - begin:8.01 每日(阅读|完形填空|短文填空)
