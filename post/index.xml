@@ -207,6 +207,45 @@ allowfullscreen="true"
 &lt;li>opencv&lt;/li>
 &lt;li>matplotlib&lt;/li>
 &lt;/ul>
+&lt;h2 id="calligraphy">calligraphy&lt;/h2>
+&lt;h3 id="汉字行书楷书">汉字(行书+楷书)&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://www.bilibili.com/video/BV1JY4y157S5" target="_blank" rel="noopener"
+>基本笔画&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;div class="video-wrapper">
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1JY4y157S5"
+scrolling="no"
+frameborder="no"
+framespacing="0"
+allowfullscreen="true"
+>
+&lt;/iframe>
+&lt;/div>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://www.bilibili.com/video/BV12S4y1H7sA" target="_blank" rel="noopener"
+>偏旁结构 1&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;div class="video-wrapper">
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV12S4y1H7sA"
+scrolling="no"
+frameborder="no"
+framespacing="0"
+allowfullscreen="true"
+>
+&lt;/iframe>
+&lt;/div>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://www.bilibili.com/video/BV1oT4y1971w" target="_blank" rel="noopener"
+>字帖视频&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="英语意大利斜体">英语(意大利斜体)&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://www.bilibili.com/video/BV1oJ41117tF" target="_blank" rel="noopener"
+>于佩安-字母&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.bilibili.com/video/BV1Xy4y1E7mE" target="_blank" rel="noopener"
+>连写&lt;/a>&lt;/li>
+&lt;/ul>
 &lt;h2 id="chinese">Chinese&lt;/h2>
 &lt;ul>
 &lt;li>万维现代文 (0/14)&lt;/li>
@@ -378,37 +417,6 @@ allowfullscreen="true"
 &lt;/table>
 &lt;/details>
 &lt;!- }}} ->
-&lt;h3 id="calligraphy">calligraphy&lt;/h3>
-&lt;ul>
-&lt;li>&lt;a class="link" href="https://www.bilibili.com/video/BV1JY4y157S5" target="_blank" rel="noopener"
->基本笔画&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;div class="video-wrapper">
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1JY4y157S5"
-scrolling="no"
-frameborder="no"
-framespacing="0"
-allowfullscreen="true"
->
-&lt;/iframe>
-&lt;/div>
-&lt;ul>
-&lt;li>&lt;a class="link" href="https://www.bilibili.com/video/BV12S4y1H7sA" target="_blank" rel="noopener"
->偏旁结构 1&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;div class="video-wrapper">
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV12S4y1H7sA"
-scrolling="no"
-frameborder="no"
-framespacing="0"
-allowfullscreen="true"
->
-&lt;/iframe>
-&lt;/div>
-&lt;ul>
-&lt;li>&lt;a class="link" href="https://www.bilibili.com/video/BV1oT4y1971w" target="_blank" rel="noopener"
->字帖视频&lt;/a>&lt;/li>
-&lt;/ul>
 &lt;h3 id="reading">reading&lt;/h3>
 &lt;ul>
 &lt;li>&lt;strong>艾青诗选&lt;/strong>&lt;/li>
@@ -421,7 +429,8 @@ allowfullscreen="true"
 &lt;li>中华上下五千年&lt;/li>
 &lt;/ul>
 &lt;h2 id="math">math&lt;/h2>
-&lt;p>&lt;em>暑假先看学过的&lt;/em>&lt;/p>
+&lt;p>&lt;em>暑假先看学过的&lt;/em>
+多做题&lt;/p>
 &lt;ul>
 &lt;li>&lt;a class="link" href="https://www.bilibili.com/video/BV1qE411H7Uv" target="_blank" rel="noopener"
 >一数复习&lt;/a>&lt;/li>
@@ -628,10 +637,11 @@ allowfullscreen="true"
 &lt;li>&lt;a class="link" href="https://space.bilibili.com/483162496/channel/seriesdetail?sid=292492" target="_blank" rel="noopener"
 >语音&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;p>再读个英文版的 &lt;em>C++ Primer&lt;/em> 或者 &lt;em>A Tour of C++&lt;/em>？还是给开源项目更新下 document?&lt;/p>
+&lt;p>&lt;a class="link" href="https://zpyg.github.io/blog/p/cs61alecture1-introduction/" target="_blank" rel="noopener"
+>CS61A + English SICP Python&lt;/a>(这也是 English Movie 吧)&lt;/p>
 &lt;h3 id="homework-2">homework&lt;/h3>
 &lt;ul>
-&lt;li>学个英文歌?&lt;/li>
+&lt;li>学个英文歌，要不就 &lt;em>Empty World&lt;/em>?&lt;/li>
 &lt;li>due:8.01 复习计划&lt;/li>
 &lt;li>begin:8.20 一起作业预习&lt;/li>
 &lt;li>begin:8.01 每日(阅读|完形填空|短文填空)&lt;/li>
