@@ -7,26 +7,52 @@ date: 2022-06-28T19:38:24+08:00
 draft: false
 ---
 
-| TIME                                  | TASK                                           |
-| ------------------------------------- | ---------------------------------------------- |
-| **5:30**                              | **get up**                                     |
-| 1h30min                               | [exercise](#exercise)                          |
-| _30min_                               | _breakfast_                                    |
-| 1h                                    | [calligraphy](#calligraphy)                    |
-| 30min                                 | [music](#music)                                |
-| **9:30 ~ WHILE(50min, 10min, 15min)** | study, short break, long break                 |
-| _30min_                               | _lunch_                                        |
-| WHILE(50min, 10min, 15min)            | study, short break, long break                 |
-| 1h30min                               | computer science                               |
-| 1h                                    | [reading](#reading)                            |
-| _30min_                               | _dinner_                                       |
-| **dinner ~ 20:50**                    | break                                          |
-| 1h                                    | reciting <br/> _Chinese/history/chemistry/..._ |
-| **21:50**                             | **go to bed**                                  |
+| TIME(estimated) | TASK                        |
+| --------------- | --------------------------- |
+| **5:30**        | **get up**                  |
+| 1h              | [exercise](#exercise)       |
+| 20min           | [vocal](#vocal)             |
+|                 | _breakfast_                 |
+| 1h              | [reading](#reading)         |
+| UNTIL           | 作业 理                     |
+| 1h              | 学习 文                     |
+| 1h30min         | [reciting](#reciting)       |
+|                 | _lunch_                     |
+| 40min           | [meditation](meditation)    |
+| 1h              | 学习 理                     |
+| UNTIL           | 作业 文                     |
+| 1h30min         | computer science            |
+| 40min           | [exercise](#exercise)       |
+| 30min           | _void_                      |
+|                 | _dinner_                    |
+| 1h              | [calligraphy](#calligraphy) |
+| 40min           | review 文科复习             |
+| 40min           | review 理科改错             |
+| **21:50**       | **go to bed**               |
+
+## reading
+
+万维现代文
+文言文 +词语积累
+
+艾青诗选 1/4
+
+## reciting
+
+1. 语文背诵九上一篇(尝试使用 DOG 方法)
+2. 政治假期作业一面
+
+### 复习
+
+1. 语文背诵并默写 半本书
+2. 英语单词 150 个
+3. 历史二单元（能记多少记多少）
+
+## meditation
+
+https://www.bilibili.com/video/BV1Rq4y1F7r4
 
 ## exercise
-
-- [meditation](https://www.bilibili.com/video/BV1Rq4y1F7r4)
 
 - [pre run](https://www.bilibili.com/video/BV14y4y147fE)
 
@@ -52,11 +78,7 @@ draft: false
 
 ## music
 
-- [声乐](https://space.bilibili.com/540564177/channel/seriesdetail?sid=217891)(不杀猪
-- [乐理](https://www.bilibili.com/video/BV1Hg411w7n2)(能看懂谱
-- 电子琴(能把音认对
-  {{< bilibili BV1RT4y1o76N >}}
-  {{< bilibili BV1jB4y1D7PD >}}
+- 声乐(https://space.bilibili.com/540564177/channel/seriesdetail?sid=217891)
 
 ## computer science
 
@@ -145,7 +167,6 @@ draft: false
 
 </details>
 <!- }}} ->
-
 
 ### reading
 
