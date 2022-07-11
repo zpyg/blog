@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Life on pu's blog</title><link>https://zpyg.github.io/blog/categories/life/</link><description>Recent content in Life on pu's blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Tue, 28 Jun 2022 19:38:24 +0800</lastBuildDate><atom:link href="https://zpyg.github.io/blog/categories/life/index.xml" rel="self" type="application/rss+xml"/><item><title>Vacation Plan</title><link>https://zpyg.github.io/blog/p/vacation-plan/</link><pubDate>Tue, 28 Jun 2022 19:38:24 +0800</pubDate><guid>https://zpyg.github.io/blog/p/vacation-plan/</guid><description>&lt;table>
 &lt;thead>
 &lt;tr>
-&lt;th>TIME&lt;/th>
+&lt;th>TIME(estimated)&lt;/th>
 &lt;th>TASK&lt;/th>
 &lt;/tr>
 &lt;/thead>
@@ -11,52 +11,76 @@
 &lt;td>&lt;strong>get up&lt;/strong>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>1h30min&lt;/td>
+&lt;td>1h&lt;/td>
 &lt;td>&lt;a class="link" href="#exercise" >exercise&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;em>30min&lt;/em>&lt;/td>
+&lt;td>20min&lt;/td>
+&lt;td>&lt;a class="link" href="#vocal" >vocal&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
 &lt;td>&lt;em>breakfast&lt;/em>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>1h&lt;/td>
-&lt;td>&lt;a class="link" href="#calligraphy" >calligraphy&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>30min&lt;/td>
-&lt;td>&lt;a class="link" href="#music" >music&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>&lt;strong>9:30 ~ WHILE(50min, 10min, 15min)&lt;/strong>&lt;/td>
-&lt;td>study, short break, long break&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>&lt;em>30min&lt;/em>&lt;/td>
-&lt;td>&lt;em>lunch&lt;/em>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>WHILE(50min, 10min, 15min)&lt;/td>
-&lt;td>study, short break, long break&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>1h30min&lt;/td>
-&lt;td>computer science&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>1h&lt;/td>
 &lt;td>&lt;a class="link" href="#reading" >reading&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;em>30min&lt;/em>&lt;/td>
-&lt;td>&lt;em>dinner&lt;/em>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>&lt;strong>dinner ~ 20:50&lt;/strong>&lt;/td>
-&lt;td>break&lt;/td>
+&lt;td>UNTIL&lt;/td>
+&lt;td>作业 理&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>1h&lt;/td>
-&lt;td>reciting &lt;br/> &lt;em>Chinese/history/chemistry/&amp;hellip;&lt;/em>&lt;/td>
+&lt;td>学习 文&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>1h30min&lt;/td>
+&lt;td>&lt;a class="link" href="#reciting" >reciting&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;em>lunch&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>40min&lt;/td>
+&lt;td>&lt;a class="link" href="meditation" >meditation&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>1h&lt;/td>
+&lt;td>学习 理&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>UNTIL&lt;/td>
+&lt;td>作业 文&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>1h30min&lt;/td>
+&lt;td>computer science&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>40min&lt;/td>
+&lt;td>&lt;a class="link" href="#exercise" >exercise&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>30min&lt;/td>
+&lt;td>&lt;em>void&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>&lt;em>dinner&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>1h&lt;/td>
+&lt;td>&lt;a class="link" href="#calligraphy" >calligraphy&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>40min&lt;/td>
+&lt;td>review 文科复习&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>40min&lt;/td>
+&lt;td>review 理科改错&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>&lt;strong>21:50&lt;/strong>&lt;/td>
@@ -64,16 +88,28 @@
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
+&lt;h2 id="reading">reading&lt;/h2>
+&lt;p>万维现代文
+文言文 +词语积累&lt;/p>
+&lt;p>艾青诗选 1/4&lt;/p>
+&lt;h2 id="reciting">reciting&lt;/h2>
+&lt;ol>
+&lt;li>语文背诵九上一篇(尝试使用 DOG 方法)&lt;/li>
+&lt;li>政治假期作业一面&lt;/li>
+&lt;/ol>
+&lt;h3 id="复习">复习&lt;/h3>
+&lt;ol>
+&lt;li>语文背诵并默写 半本书&lt;/li>
+&lt;li>英语单词 150 个&lt;/li>
+&lt;li>历史二单元（能记多少记多少）&lt;/li>
+&lt;/ol>
+&lt;h2 id="meditation">meditation&lt;/h2>
+&lt;p>&lt;a class="link" href="https://www.bilibili.com/video/BV1Rq4y1F7r4" target="_blank" rel="noopener"
+>https://www.bilibili.com/video/BV1Rq4y1F7r4&lt;/a>&lt;/p>
 &lt;h2 id="exercise">exercise&lt;/h2>
 &lt;ul>
-&lt;li>
-&lt;p>&lt;a class="link" href="https://www.bilibili.com/video/BV1Rq4y1F7r4" target="_blank" rel="noopener"
->meditation&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a class="link" href="https://www.bilibili.com/video/BV14y4y147fE" target="_blank" rel="noopener"
->pre run&lt;/a>&lt;/p>
-&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.bilibili.com/video/BV14y4y147fE" target="_blank" rel="noopener"
+>pre run&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;div class="video-wrapper">
 &lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV14y4y147fE"
@@ -143,30 +179,8 @@ allowfullscreen="true"
 &lt;/div>
 &lt;h2 id="music">music&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a class="link" href="https://space.bilibili.com/540564177/channel/seriesdetail?sid=217891" target="_blank" rel="noopener"
->声乐&lt;/a>(不杀猪&lt;/li>
-&lt;li>&lt;a class="link" href="https://www.bilibili.com/video/BV1Hg411w7n2" target="_blank" rel="noopener"
->乐理&lt;/a>(能看懂谱&lt;/li>
-&lt;li>电子琴(能把音认对
-&lt;div class="video-wrapper">
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1RT4y1o76N"
-scrolling="no"
-frameborder="no"
-framespacing="0"
-allowfullscreen="true"
->
-&lt;/iframe>
-&lt;/div>
-&lt;div class="video-wrapper">
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1jB4y1D7PD"
-scrolling="no"
-frameborder="no"
-framespacing="0"
-allowfullscreen="true"
->
-&lt;/iframe>
-&lt;/div>
-&lt;/li>
+&lt;li>声乐(&lt;a class="link" href="https://space.bilibili.com/540564177/channel/seriesdetail?sid=217891" target="_blank" rel="noopener"
+>https://space.bilibili.com/540564177/channel/seriesdetail?sid=217891&lt;/a>)&lt;/li>
 &lt;/ul>
 &lt;h2 id="computer-science">computer science&lt;/h2>
 &lt;ul>
@@ -396,7 +410,7 @@ allowfullscreen="true"
 &lt;/table>
 &lt;/details>
 &lt;!- }}} ->
-&lt;h3 id="reading">reading&lt;/h3>
+&lt;h3 id="reading-1">reading&lt;/h3>
 &lt;ul>
 &lt;li>&lt;strong>艾青诗选&lt;/strong>&lt;/li>
 &lt;li>&lt;strong>水浒传&lt;/strong>&lt;/li>
