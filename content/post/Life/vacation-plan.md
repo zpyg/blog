@@ -10,21 +10,21 @@ draft: false
 | TIME(estimated) | TASK                        |
 | --------------- | --------------------------- |
 | **5:30**        | **get up**                  |
+| 40min           | [meditation](meditation)    |
 | 1h              | [exercise](#exercise)       |
 | 20min           | [vocal](#vocal)             |
 |                 | _breakfast_                 |
-| 1h              | [reading](#reading)         |
+| 1h30min         | [reciting](#reciting)       |
 | UNTIL           | 作业 理                     |
 | 1h              | 学习 文                     |
-| 1h30min         | [reciting](#reciting)       |
 |                 | _lunch_                     |
-| 40min           | [meditation](meditation)    |
-| 1h              | 学习 理                     |
-| UNTIL           | 作业 文                     |
-| 1h30min         | computer science            |
+| 1h30min         | [reading](#reading)         |
 | 40min           | [exercise](#exercise)       |
-| 30min           | _void_                      |
+| UNTIL           | 作业 文                     |
+| 1h              | 学习 理                     |
+| 1h30min         | computer science            |
 |                 | _dinner_                    |
+| 30min           | _void_                      |
 | 1h              | [calligraphy](#calligraphy) |
 | 40min           | review 文科复习             |
 | 40min           | review 理科改错             |
@@ -32,10 +32,13 @@ draft: false
 
 ## reading
 
-万维现代文
-文言文 +词语积累
-
 艾青诗选 1/4
+
+万维现代文
+
+文言文 +词语积累 || 说明/议论文 素材积累
+
+中华上下五千年
 
 ## reciting
 
