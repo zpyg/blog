@@ -11,6 +11,10 @@
 &lt;td>&lt;strong>get up&lt;/strong>&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td>40min&lt;/td>
+&lt;td>&lt;a class="link" href="meditation" >meditation&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td>1h&lt;/td>
 &lt;td>&lt;a class="link" href="#exercise" >exercise&lt;/a>&lt;/td>
 &lt;/tr>
@@ -23,8 +27,8 @@
 &lt;td>&lt;em>breakfast&lt;/em>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>1h&lt;/td>
-&lt;td>&lt;a class="link" href="#reading" >reading&lt;/a>&lt;/td>
+&lt;td>1h30min&lt;/td>
+&lt;td>&lt;a class="link" href="#reciting" >reciting&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>UNTIL&lt;/td>
@@ -35,40 +39,36 @@
 &lt;td>学习 文&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>1h30min&lt;/td>
-&lt;td>&lt;a class="link" href="#reciting" >reciting&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;tr>
 &lt;td>&lt;/td>
 &lt;td>&lt;em>lunch&lt;/em>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>40min&lt;/td>
-&lt;td>&lt;a class="link" href="meditation" >meditation&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>1h&lt;/td>
-&lt;td>学习 理&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>UNTIL&lt;/td>
-&lt;td>作业 文&lt;/td>
-&lt;/tr>
-&lt;tr>
 &lt;td>1h30min&lt;/td>
-&lt;td>computer science&lt;/td>
+&lt;td>&lt;a class="link" href="#reading" >reading&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>40min&lt;/td>
 &lt;td>&lt;a class="link" href="#exercise" >exercise&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>30min&lt;/td>
-&lt;td>&lt;em>void&lt;/em>&lt;/td>
+&lt;td>UNTIL&lt;/td>
+&lt;td>作业 文&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>1h&lt;/td>
+&lt;td>学习 理&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>1h30min&lt;/td>
+&lt;td>computer science&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>&lt;/td>
 &lt;td>&lt;em>dinner&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>30min&lt;/td>
+&lt;td>&lt;em>void&lt;/em>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>1h&lt;/td>
@@ -89,9 +89,10 @@
 &lt;/tbody>
 &lt;/table>
 &lt;h2 id="reading">reading&lt;/h2>
-&lt;p>万维现代文
-文言文 +词语积累&lt;/p>
 &lt;p>艾青诗选 1/4&lt;/p>
+&lt;p>万维现代文&lt;/p>
+&lt;p>文言文 +词语积累 || 说明/议论文 素材积累&lt;/p>
+&lt;p>中华上下五千年&lt;/p>
 &lt;h2 id="reciting">reciting&lt;/h2>
 &lt;ol>
 &lt;li>语文背诵九上一篇(尝试使用 DOG 方法)&lt;/li>
