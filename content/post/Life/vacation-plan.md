@@ -7,28 +7,57 @@ date: 2022-06-28T19:38:24+08:00
 draft: false
 ---
 
-| TIME(estimated) | TASK                        |
-| --------------- | --------------------------- |
-| **5:30**        | **get up**                  |
-| 40min           | [meditation](meditation)    |
-| 1h              | [exercise](#exercise)       |
-| 20min           | [vocal](#vocal)             |
-|                 | _breakfast_                 |
-| UNTIL           | 作业 理                     |
-| 1h30min         | [reciting](#reciting)       |
-| 1h              | 学习 文                     |
-|                 | _lunch_                     |
-| 1h30min         | [reading](#reading)         |
-| 40min           | [exercise](#exercise)       |
-| UNTIL           | 作业 文                     |
-| 1h              | 学习 理                     |
-| 1h30min         | computer science            |
-|                 | _dinner_                    |
-| 30min           | _void_                      |
-| 1h              | [calligraphy](#calligraphy) |
-| 40min           | review 文科复习             |
-| 40min           | review 理科改错             |
-| **21:50**       | **go to bed**               |
+_tip_: 恒 静 勤 实 远 诚 & NO 4S(Smart Phone, Short Video, Social Software, mySelf DIY Machine)
+
+> Daily Plan
+
+| TIME(estimated <- content) | TASK                            |                   STATUS                   |
+| :------------------------- | :------------------------------ | :----------------------------------------: |
+| **5:30**                   | **get up**                      | <input type="checkbox" checked='checked'/> |
+| 30min                      | [meditation](meditation)        | <input type="checkbox" checked='checked'/> |
+| 1h10min                    | [exercise](#morning-exercise)   | <input type="checkbox" checked='checked'/> |
+| 20min                      | [vocal](#vocal)                 | <input type="checkbox" checked='checked'/> |
+|                            | _breakfast_                     |                                            |
+| 1h30min                    | 作业 理                         |         <input type="checkbox" />          |
+| 1h30min                    | [reciting](#reciting)           |         <input type="checkbox" />          |
+| 1h                         | 学习 文                         |         <input type="checkbox" />          |
+|                            | _lunch_                         |                                            |
+| 1h30min                    | [reading](#reading)             |         <input type="checkbox" />          |
+| 30min                      | [exercise](#afternoon-exercise) |         <input type="checkbox" />          |
+| 1h                         | 作业 文                         |         <input type="checkbox" />          |
+| 1h                         | 学习 理                         |         <input type="checkbox" />          |
+| 1h30min                    | computer science                |         <input type="checkbox" />          |
+| 10min                      | 处理消息                        |         <input type="checkbox" />          |
+|                            | _dinner_                        |                                            |
+| 1h                         | [calligraphy](#calligraphy)     |         <input type="checkbox" />          |
+| 40min                      | review 文科复习                 |         <input type="checkbox" />          |
+| 40min                      | review 理科改错                 |         <input type="checkbox" />          |
+| **21:20**                  | **go to bed**                   |         <input type="checkbox" />          |
+
+> Monthly Statistics
+
+_comment_: 每日详细完成度可通过 git 查看
+| Day | STATUS |
+| :--: | :-------------------------: |
+| 7.13 | <input type = "checkbox" /> |
+| 7.14 | <input type = "checkbox" /> |
+| 7.15 | <input type = "checkbox" /> |
+| 7.16 | <input type = "checkbox" /> |
+| 7.17 | <input type = "checkbox" /> |
+| 7.18 | <input type = "checkbox" /> |
+| 7.19 | <input type = "checkbox" /> |
+| 7.20 | <input type = "checkbox" /> |
+| 7.21 | <input type = "checkbox" /> |
+| 7.22 | <input type = "checkbox" /> |
+| 7.23 | <input type = "checkbox" /> |
+| 7.24 | <input type = "checkbox" /> |
+| 7.25 | <input type = "checkbox" /> |
+| 7.26 | <input type = "checkbox" /> |
+| 7.27 | <input type = "checkbox" /> |
+| 7.28 | <input type = "checkbox" /> |
+| 7.29 | <input type = "checkbox" /> |
+| 7.30 | <input type = "checkbox" /> |
+| 7.31 | <input type = "checkbox" /> |
 
 ## reading
 
@@ -57,31 +86,27 @@ https://www.bilibili.com/video/BV1Rq4y1F7r4
 
 ## exercise
 
-- [pre run](https://www.bilibili.com/video/BV14y4y147fE)
+### morning exercise
 
-{{< bilibili BV14y4y147fE >}}
+- 跑步
 
-- [run](https://www.bilibili.com/audio/au2436495)
+  1. [拉伸](https://www.bilibili.com/video/BV1hE411V77S)
 
-- [post run]
-
-{{< bilibili BV1hE411V77S >}}
+  2. [跑步](https://www.bilibili.com/audio/au2436495)
 
 - [俯卧撑](https://www.bilibili.com/video/BV14K4y1W7iQ)
 
-{{< bilibili BV14K4y1W7iQ >}}
+### afternoon exercise
+
+- 爬楼梯 20min
 
 - [脊柱活动](https://www.bilibili.com/video/BV17Y4y1E7oX)
 
-{{< bilibili BV17Y4y1E7oX >}}
-
 - [颈部活动](https://www.bilibili.com/video/BV1Wr4y1a7me)
 
-{{< bilibili BV1Wr4y1a7me >}}
+## vocal
 
-## music
-
-- 声乐(https://space.bilibili.com/540564177/channel/seriesdetail?sid=217891)
+- [声乐](https://space.bilibili.com/540564177/channel/seriesdetail?sid=217891)
 
 ## computer science
 
