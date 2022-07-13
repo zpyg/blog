@@ -14,8 +14,8 @@ draft: false
 | 1h              | [exercise](#exercise)       |
 | 20min           | [vocal](#vocal)             |
 |                 | _breakfast_                 |
-| 1h30min         | [reciting](#reciting)       |
 | UNTIL           | 作业 理                     |
+| 1h30min         | [reciting](#reciting)       |
 | 1h              | 学习 文                     |
 |                 | _lunch_                     |
 | 1h30min         | [reading](#reading)         |
