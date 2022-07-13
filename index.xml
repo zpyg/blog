@@ -19,93 +19,208 @@
 &lt;p>&lt;a class="link" href="https://cs61a.org/articles/using-ok/#signing-in-with-ok" target="_blank" rel="noopener"
 >homework using ok&lt;/a>&lt;/p>
 &lt;/li>
-&lt;/ul></description></item><item><title>Vacation Plan</title><link>https://zpyg.github.io/blog/p/vacation-plan/</link><pubDate>Tue, 28 Jun 2022 19:38:24 +0800</pubDate><guid>https://zpyg.github.io/blog/p/vacation-plan/</guid><description>&lt;table>
+&lt;/ul></description></item><item><title>Vacation Plan</title><link>https://zpyg.github.io/blog/p/vacation-plan/</link><pubDate>Tue, 28 Jun 2022 19:38:24 +0800</pubDate><guid>https://zpyg.github.io/blog/p/vacation-plan/</guid><description>&lt;p>&lt;em>tip&lt;/em>: 恒 静 勤 实 远 诚 &amp;amp; NO 4S(Smart Phone, Short Video, Social Software, mySelf DIY Machine)&lt;/p>
+&lt;blockquote>
+&lt;p>Daily Plan&lt;/p>
+&lt;/blockquote>
+&lt;table>
 &lt;thead>
 &lt;tr>
-&lt;th>TIME(estimated)&lt;/th>
-&lt;th>TASK&lt;/th>
+&lt;th style="text-align:left">TIME(estimated &amp;lt;- content)&lt;/th>
+&lt;th style="text-align:left">TASK&lt;/th>
+&lt;th style="text-align:center">STATUS&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td>&lt;strong>5:30&lt;/strong>&lt;/td>
-&lt;td>&lt;strong>get up&lt;/strong>&lt;/td>
+&lt;td style="text-align:left">&lt;strong>5:30&lt;/strong>&lt;/td>
+&lt;td style="text-align:left">&lt;strong>get up&lt;/strong>&lt;/td>
+&lt;td style="text-align:center">&lt;input type="checkbox" checked='checked'/>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>40min&lt;/td>
-&lt;td>&lt;a class="link" href="meditation" >meditation&lt;/a>&lt;/td>
+&lt;td style="text-align:left">30min&lt;/td>
+&lt;td style="text-align:left">&lt;a class="link" href="meditation" >meditation&lt;/a>&lt;/td>
+&lt;td style="text-align:center">&lt;input type="checkbox" checked='checked'/>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>1h&lt;/td>
-&lt;td>&lt;a class="link" href="#exercise" >exercise&lt;/a>&lt;/td>
+&lt;td style="text-align:left">1h10min&lt;/td>
+&lt;td style="text-align:left">&lt;a class="link" href="#morning-exercise" >exercise&lt;/a>&lt;/td>
+&lt;td style="text-align:center">&lt;input type="checkbox" checked='checked'/>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>20min&lt;/td>
-&lt;td>&lt;a class="link" href="#vocal" >vocal&lt;/a>&lt;/td>
+&lt;td style="text-align:left">20min&lt;/td>
+&lt;td style="text-align:left">&lt;a class="link" href="#vocal" >vocal&lt;/a>&lt;/td>
+&lt;td style="text-align:center">&lt;input type="checkbox" checked='checked'/>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;/td>
-&lt;td>&lt;em>breakfast&lt;/em>&lt;/td>
+&lt;td style="text-align:left">&lt;/td>
+&lt;td style="text-align:left">&lt;em>breakfast&lt;/em>&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>UNTIL&lt;/td>
-&lt;td>作业 理&lt;/td>
+&lt;td style="text-align:left">1h30min&lt;/td>
+&lt;td style="text-align:left">作业 理&lt;/td>
+&lt;td style="text-align:center">&lt;input type="checkbox" />&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>1h30min&lt;/td>
-&lt;td>&lt;a class="link" href="#reciting" >reciting&lt;/a>&lt;/td>
+&lt;td style="text-align:left">1h30min&lt;/td>
+&lt;td style="text-align:left">&lt;a class="link" href="#reciting" >reciting&lt;/a>&lt;/td>
+&lt;td style="text-align:center">&lt;input type="checkbox" />&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>1h&lt;/td>
-&lt;td>学习 文&lt;/td>
+&lt;td style="text-align:left">1h&lt;/td>
+&lt;td style="text-align:left">学习 文&lt;/td>
+&lt;td style="text-align:center">&lt;input type="checkbox" />&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;/td>
-&lt;td>&lt;em>lunch&lt;/em>&lt;/td>
+&lt;td style="text-align:left">&lt;/td>
+&lt;td style="text-align:left">&lt;em>lunch&lt;/em>&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>1h30min&lt;/td>
-&lt;td>&lt;a class="link" href="#reading" >reading&lt;/a>&lt;/td>
+&lt;td style="text-align:left">1h30min&lt;/td>
+&lt;td style="text-align:left">&lt;a class="link" href="#reading" >reading&lt;/a>&lt;/td>
+&lt;td style="text-align:center">&lt;input type="checkbox" />&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>40min&lt;/td>
-&lt;td>&lt;a class="link" href="#exercise" >exercise&lt;/a>&lt;/td>
+&lt;td style="text-align:left">30min&lt;/td>
+&lt;td style="text-align:left">&lt;a class="link" href="#afternoon-exercise" >exercise&lt;/a>&lt;/td>
+&lt;td style="text-align:center">&lt;input type="checkbox" />&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>UNTIL&lt;/td>
-&lt;td>作业 文&lt;/td>
+&lt;td style="text-align:left">1h&lt;/td>
+&lt;td style="text-align:left">作业 文&lt;/td>
+&lt;td style="text-align:center">&lt;input type="checkbox" />&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>1h&lt;/td>
-&lt;td>学习 理&lt;/td>
+&lt;td style="text-align:left">1h&lt;/td>
+&lt;td style="text-align:left">学习 理&lt;/td>
+&lt;td style="text-align:center">&lt;input type="checkbox" />&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>1h30min&lt;/td>
-&lt;td>computer science&lt;/td>
+&lt;td style="text-align:left">1h30min&lt;/td>
+&lt;td style="text-align:left">computer science&lt;/td>
+&lt;td style="text-align:center">&lt;input type="checkbox" />&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;/td>
-&lt;td>&lt;em>dinner&lt;/em>&lt;/td>
+&lt;td style="text-align:left">10min&lt;/td>
+&lt;td style="text-align:left">处理消息&lt;/td>
+&lt;td style="text-align:center">&lt;input type="checkbox" />&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>30min&lt;/td>
-&lt;td>&lt;em>void&lt;/em>&lt;/td>
+&lt;td style="text-align:left">&lt;/td>
+&lt;td style="text-align:left">&lt;em>dinner&lt;/em>&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>1h&lt;/td>
-&lt;td>&lt;a class="link" href="#calligraphy" >calligraphy&lt;/a>&lt;/td>
+&lt;td style="text-align:left">1h&lt;/td>
+&lt;td style="text-align:left">&lt;a class="link" href="#calligraphy" >calligraphy&lt;/a>&lt;/td>
+&lt;td style="text-align:center">&lt;input type="checkbox" />&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>40min&lt;/td>
-&lt;td>review 文科复习&lt;/td>
+&lt;td style="text-align:left">40min&lt;/td>
+&lt;td style="text-align:left">review 文科复习&lt;/td>
+&lt;td style="text-align:center">&lt;input type="checkbox" />&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>40min&lt;/td>
-&lt;td>review 理科改错&lt;/td>
+&lt;td style="text-align:left">40min&lt;/td>
+&lt;td style="text-align:left">review 理科改错&lt;/td>
+&lt;td style="text-align:center">&lt;input type="checkbox" />&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;strong>21:50&lt;/strong>&lt;/td>
-&lt;td>&lt;strong>go to bed&lt;/strong>&lt;/td>
+&lt;td style="text-align:left">&lt;strong>21:20&lt;/strong>&lt;/td>
+&lt;td style="text-align:left">&lt;strong>go to bed&lt;/strong>&lt;/td>
+&lt;td style="text-align:center">&lt;input type="checkbox" />&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;blockquote>
+&lt;p>Monthly Statistics&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;em>comment&lt;/em>: 每日详细完成度可通过 git 查看&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">Day&lt;/th>
+&lt;th style="text-align:center">STATUS&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">7.13&lt;/td>
+&lt;td style="text-align:center">&lt;input type = "checkbox" />&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">7.14&lt;/td>
+&lt;td style="text-align:center">&lt;input type = "checkbox" />&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">7.15&lt;/td>
+&lt;td style="text-align:center">&lt;input type = "checkbox" />&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">7.16&lt;/td>
+&lt;td style="text-align:center">&lt;input type = "checkbox" />&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">7.17&lt;/td>
+&lt;td style="text-align:center">&lt;input type = "checkbox" />&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">7.18&lt;/td>
+&lt;td style="text-align:center">&lt;input type = "checkbox" />&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">7.19&lt;/td>
+&lt;td style="text-align:center">&lt;input type = "checkbox" />&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">7.20&lt;/td>
+&lt;td style="text-align:center">&lt;input type = "checkbox" />&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">7.21&lt;/td>
+&lt;td style="text-align:center">&lt;input type = "checkbox" />&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">7.22&lt;/td>
+&lt;td style="text-align:center">&lt;input type = "checkbox" />&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">7.23&lt;/td>
+&lt;td style="text-align:center">&lt;input type = "checkbox" />&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">7.24&lt;/td>
+&lt;td style="text-align:center">&lt;input type = "checkbox" />&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">7.25&lt;/td>
+&lt;td style="text-align:center">&lt;input type = "checkbox" />&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">7.26&lt;/td>
+&lt;td style="text-align:center">&lt;input type = "checkbox" />&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">7.27&lt;/td>
+&lt;td style="text-align:center">&lt;input type = "checkbox" />&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">7.28&lt;/td>
+&lt;td style="text-align:center">&lt;input type = "checkbox" />&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">7.29&lt;/td>
+&lt;td style="text-align:center">&lt;input type = "checkbox" />&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">7.30&lt;/td>
+&lt;td style="text-align:center">&lt;input type = "checkbox" />&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">7.31&lt;/td>
+&lt;td style="text-align:center">&lt;input type = "checkbox" />&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
@@ -129,80 +244,44 @@
 &lt;p>&lt;a class="link" href="https://www.bilibili.com/video/BV1Rq4y1F7r4" target="_blank" rel="noopener"
 >https://www.bilibili.com/video/BV1Rq4y1F7r4&lt;/a>&lt;/p>
 &lt;h2 id="exercise">exercise&lt;/h2>
+&lt;h3 id="morning-exercise">morning exercise&lt;/h3>
 &lt;ul>
-&lt;li>&lt;a class="link" href="https://www.bilibili.com/video/BV14y4y147fE" target="_blank" rel="noopener"
->pre run&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;div class="video-wrapper">
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV14y4y147fE"
-scrolling="no"
-frameborder="no"
-framespacing="0"
-allowfullscreen="true"
->
-&lt;/iframe>
-&lt;/div>
-&lt;ul>
+&lt;li>
+&lt;p>跑步&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;a class="link" href="https://www.bilibili.com/video/BV1hE411V77S" target="_blank" rel="noopener"
+>拉伸&lt;/a>&lt;/p>
+&lt;/li>
 &lt;li>
 &lt;p>&lt;a class="link" href="https://www.bilibili.com/audio/au2436495" target="_blank" rel="noopener"
->run&lt;/a>&lt;/p>
+>跑步&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
 &lt;/li>
 &lt;li>
-&lt;p>[post run]&lt;/p>
+&lt;p>&lt;a class="link" href="https://www.bilibili.com/video/BV14K4y1W7iQ" target="_blank" rel="noopener"
+>俯卧撑&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
-&lt;div class="video-wrapper">
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1hE411V77S"
-scrolling="no"
-frameborder="no"
-framespacing="0"
-allowfullscreen="true"
->
-&lt;/iframe>
-&lt;/div>
+&lt;h3 id="afternoon-exercise">afternoon exercise&lt;/h3>
 &lt;ul>
-&lt;li>&lt;a class="link" href="https://www.bilibili.com/video/BV14K4y1W7iQ" target="_blank" rel="noopener"
->俯卧撑&lt;/a>&lt;/li>
+&lt;li>
+&lt;p>爬楼梯 20min&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a class="link" href="https://www.bilibili.com/video/BV17Y4y1E7oX" target="_blank" rel="noopener"
+>脊柱活动&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a class="link" href="https://www.bilibili.com/video/BV1Wr4y1a7me" target="_blank" rel="noopener"
+>颈部活动&lt;/a>&lt;/p>
+&lt;/li>
 &lt;/ul>
-&lt;div class="video-wrapper">
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV14K4y1W7iQ"
-scrolling="no"
-frameborder="no"
-framespacing="0"
-allowfullscreen="true"
->
-&lt;/iframe>
-&lt;/div>
+&lt;h2 id="vocal">vocal&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a class="link" href="https://www.bilibili.com/video/BV17Y4y1E7oX" target="_blank" rel="noopener"
->脊柱活动&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;div class="video-wrapper">
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV17Y4y1E7oX"
-scrolling="no"
-frameborder="no"
-framespacing="0"
-allowfullscreen="true"
->
-&lt;/iframe>
-&lt;/div>
-&lt;ul>
-&lt;li>&lt;a class="link" href="https://www.bilibili.com/video/BV1Wr4y1a7me" target="_blank" rel="noopener"
->颈部活动&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;div class="video-wrapper">
-&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1Wr4y1a7me"
-scrolling="no"
-frameborder="no"
-framespacing="0"
-allowfullscreen="true"
->
-&lt;/iframe>
-&lt;/div>
-&lt;h2 id="music">music&lt;/h2>
-&lt;ul>
-&lt;li>声乐(&lt;a class="link" href="https://space.bilibili.com/540564177/channel/seriesdetail?sid=217891" target="_blank" rel="noopener"
->https://space.bilibili.com/540564177/channel/seriesdetail?sid=217891&lt;/a>)&lt;/li>
+&lt;li>&lt;a class="link" href="https://space.bilibili.com/540564177/channel/seriesdetail?sid=217891" target="_blank" rel="noopener"
+>声乐&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="computer-science">computer science&lt;/h2>
 &lt;ul>
