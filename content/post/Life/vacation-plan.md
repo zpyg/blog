@@ -7,32 +7,32 @@ date: 2022-06-28T19:38:24+08:00
 draft: false
 ---
 
-_tip_: 恒 静 勤 实 远 诚 & NO 4S(Smart Phone, Short Video, Social Software, mySelf DIY Machine)
+_tip_: 恒 静 勤 实 远 诚 & NO 5S(Smart Phone, Short Video, Social Software, mySelf DIY Machine)
 
 > Daily Plan
 
-| TIME(estimated <- content) | TASK                            |                   STATUS                   |
-| :------------------------- | :------------------------------ | :----------------------------------------: |
-| **5:30**                   | **get up**                      | <input type="checkbox" checked='checked'/> |
-| 30min                      | [meditation](meditation)        | <input type="checkbox" checked='checked'/> |
-| 1h10min                    | [exercise](#morning-exercise)   | <input type="checkbox" checked='checked'/> |
-| 20min                      | [vocal](#vocal)                 | <input type="checkbox" checked='checked'/> |
-|                            | _breakfast_                     |                                            |
-| 1h30min                    | 作业 理                         | <input type="checkbox" checked='checked'/> |
-| 1h30min                    | [reciting](#reciting)           |         <input type="checkbox" />          |
-| 1h                         | 学习 文                         |         <input type="checkbox" />          |
-|                            | _lunch_                         |                                            |
-| 1h30min                    | [reading](#reading)             |         <input type="checkbox" />          |
-| 30min                      | [exercise](#afternoon-exercise) |         <input type="checkbox" />          |
-| 1h                         | 作业 文                         |         <input type="checkbox" />          |
-| 1h                         | 学习 理                         |         <input type="checkbox" />          |
-| 1h30min                    | computer science                |         <input type="checkbox" />          |
-| 10min                      | 处理消息                        |         <input type="checkbox" />          |
-|                            | _dinner_                        |                                            |
-| 1h                         | [calligraphy](#calligraphy)     |         <input type="checkbox" />          |
-| 40min                      | review 文科复习                 |         <input type="checkbox" />          |
-| 40min                      | review 理科改错                 |         <input type="checkbox" />          |
-| **21:20**                  | **go to bed**                   |         <input type="checkbox" />          |
+| TIME(estimated <- content) | TASK                            | STATUS |
+| :------------------------- | :------------------------------ | :----: |
+| **5:30**                   | **get up**                      |   \_   |
+| 30min                      | [meditation](meditation)        |  [x]   |
+| 1h10min                    | [exercise](#morning-exercise)   |  [x]   |
+| 20min                      | [vocal](#vocal)                 |  [x]   |
+|                            | _breakfast_                     |   \_   |
+| 1h30min                    | 作业 理                         |  [x]   |
+| 1h30min                    | [reciting](#reciting)           |  [x]   |
+| 1h                         | 学习 文                         |  [ ]   |
+|                            | _lunch_                         |   \_   |
+| 1h30min                    | [reading](#reading)             |  [ ]   |
+| 30min                      | [exercise](#afternoon-exercise) |  [x]   |
+| 1h                         | 作业 文                         |  [x]   |
+| 1h                         | 学习 理                         |  [ ]   |
+| 1h30min                    | computer science                |  [x]   |
+| 10min                      | _处理消息仅限于此时_            |   \_   |
+|                            | _dinner_                        |   \_   |
+| 1h                         | [calligraphy](#calligraphy)     |  [x]   |
+| 40min                      | review 文科复习                 |  [ ]   |
+| 40min                      | review 理科改错                 |  [ ]   |
+| **21:20**                  | **go to bed**                   |   \_   |
 
 > Monthly Statistics
 
@@ -40,7 +40,7 @@ _comment_: 每日详细完成度可通过 git 查看
 | Day | STATUS |
 | :--: | :-------------------------: |
 | 7.13 | 执行失败 |
-| 7.14 | <input type = "checkbox" /> |
+| 7.14 | 大部分完成 浪费大概 2h 时间<br/>得考虑每日选择部分内容 目前时间不太够<br/>做完非常重实 |
 | 7.15 | <input type = "checkbox" /> |
 | 7.16 | <input type = "checkbox" /> |
 | 7.17 | <input type = "checkbox" /> |
@@ -71,20 +71,22 @@ _comment_: 每日详细完成度可通过 git 查看
 
 ## reciting
 
-1. 语文背诵九上一篇(尝试使用 DOG 方法)
-2. 政治假期作业一面
+1. [x] 语文背诵九上一篇(尝试使用 DOG 方法)
+2. [x] 政治假期作业一面
 
 ### 复习
 
-1. 语文背诵并默写 半本书
-2. 英语单词 150 个
-3. 历史二单元（能记多少记多少）
+1. [ ] 语文背诵并默写 半本书 !ipt 春 纪念白求恩 从百草园到三味书屋 假如生活欺骗了你 天上的街市 未选择的路
+2. [x] 英语单词 60 + 复习
+3. [ ] 历史二单元（能记多少记多少）
 
 ## meditation
 
 https://www.bilibili.com/video/BV1Rq4y1F7r4
 
 ## exercise
+
+TODO: 加入体考训练
 
 ### morning exercise
 
