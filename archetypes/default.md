@@ -1,6 +1,9 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
+description: ""
 date: {{ .Date }}
-categories: ;;;
+categories:
+  - {{ path.Base .File.Dir }}
+tags: []
 ---
 

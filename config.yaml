@@ -27,8 +27,8 @@ params:
     customText:
 
   dateFormat:
-    published: 2006-1-2
-    lastUpdated: 2006-1-2 15:04 CST
+    published: 2006年1月2日 15:04:05
+    lastUpdated: 2006年1月2日 15:04:05
 
   sidebar:
     emoji: ☀️
