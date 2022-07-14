@@ -18,7 +18,7 @@ _tip_: 恒 静 勤 实 远 诚 & NO 4S(Smart Phone, Short Video, Social Software
 | 1h10min                    | [exercise](#morning-exercise)   | <input type="checkbox" checked='checked'/> |
 | 20min                      | [vocal](#vocal)                 | <input type="checkbox" checked='checked'/> |
 |                            | _breakfast_                     |                                            |
-| 1h30min                    | 作业 理                         |         <input type="checkbox" />          |
+| 1h30min                    | 作业 理                         | <input type="checkbox" checked='checked'/> |
 | 1h30min                    | [reciting](#reciting)           |         <input type="checkbox" />          |
 | 1h                         | 学习 文                         |         <input type="checkbox" />          |
 |                            | _lunch_                         |                                            |
@@ -39,7 +39,7 @@ _tip_: 恒 静 勤 实 远 诚 & NO 4S(Smart Phone, Short Video, Social Software
 _comment_: 每日详细完成度可通过 git 查看
 | Day | STATUS |
 | :--: | :-------------------------: |
-| 7.13 | <input type = "checkbox" /> |
+| 7.13 | 执行失败 |
 | 7.14 | <input type = "checkbox" /> |
 | 7.15 | <input type = "checkbox" /> |
 | 7.16 | <input type = "checkbox" /> |
