@@ -9,30 +9,34 @@ draft: false
 
 _tip_: 恒 静 勤 实 远 诚 & NO 5S(Smart Phone, Short Video, Social Software, mySelf DIY Machine)
 
+```vim
+normal gg<S-v>G:s/\[x\]/[ ]/g
+```
+
 > Daily Plan
 
-| TIME(estimated <- content) | TASK                            | STATUS |
-| :------------------------- | :------------------------------ | :----: |
-| **5:30**                   | **get up**                      |   \_   |
-| 30min                      | [meditation](meditation)        |  [x]   |
-| 1h10min                    | [exercise](#morning-exercise)   |  [x]   |
-| 20min                      | [vocal](#vocal)                 |  [x]   |
-|                            | _breakfast_                     |   \_   |
-| 1h30min                    | 作业 理                         |  [x]   |
-| 1h30min                    | [reciting](#reciting)           |  [x]   |
-| 1h                         | 学习 文                         |  [ ]   |
-|                            | _lunch_                         |   \_   |
-| 1h30min                    | [reading](#reading)             |  [ ]   |
-| 30min                      | [exercise](#afternoon-exercise) |  [x]   |
-| 1h                         | 作业 文                         |  [x]   |
-| 1h                         | 学习 理                         |  [ ]   |
-| 1h30min                    | computer science                |  [x]   |
-| 10min                      | _处理消息仅限于此时_            |   \_   |
-|                            | _dinner_                        |   \_   |
-| 1h                         | [calligraphy](#calligraphy)     |  [x]   |
-| 40min                      | review 文科复习                 |  [ ]   |
-| 40min                      | review 理科改错                 |  [ ]   |
-| **21:20**                  | **go to bed**                   |   \_   |
+| TIME(estimated <- content) | TASK                                                | STATUS |
+| :------------------------- | :-------------------------------------------------- | :----: |
+| **5:30**                   | **get up**                                          |   \_   |
+| 30min                      | [meditation](meditation)                            |  [x]   |
+| 1h10min                    | [exercise](#morning-exercise)                       |  [x]   |
+| 20min                      | [vocal](#vocal)                                     |  [x]   |
+|                            | _breakfast_                                         |   \_   |
+| 1h30min                    | 学理(不把作业看成作业，都是自己主动的学,掌握主动权) |  [x]   |
+| 1h30min                    | [reciting](#reciting)                               |  [-]   |
+| 1h                         | 学文                                                |  [ ]   |
+|                            | _lunch_                                             |   \_   |
+| 1h30min                    | [reading](#reading)                                 |  [ ]   |
+| 30min                      | [exercise](#afternoon-exercise)                     |  [ ]   |
+| 1h                         | 学文                                                |  [x]   |
+| 1h                         | 学理                                                |  [ ]   |
+| 1h30min                    | computer science                                    |  [ ]   |
+| 10min                      | _处理消息仅限于此时_                                |   \_   |
+|                            | _dinner_                                            |   \_   |
+| 1h                         | [calligraphy](#calligraphy)                         |  [ ]   |
+| 40min                      | review 文科复习                                     |  [ ]   |
+| 40min                      | review 理科改错                                     |  [ ]   |
+| **21:20**                  | **go to bed**                                       |   \_   |
 
 > Monthly Statistics
 
@@ -41,7 +45,7 @@ _comment_: 每日详细完成度可通过 git 查看
 | :--: | :-------------------------: |
 | 7.13 | 执行失败 |
 | 7.14 | 大部分完成 浪费大概 2h 时间<br/>得考虑每日选择部分内容 目前时间不太够<br/>做完非常重实 |
-| 7.15 | <input type = "checkbox" /> |
+| 7.15 | 完成基本内容 浪费大半天; 1. 不能好一天坏一天，要有固定节奏 2. 不要用长视频、连续剧情型视频娱乐，碎片时间可以背单词、背书 3. 少人际交往，说话注意考量，不要想太多  |
 | 7.16 | <input type = "checkbox" /> |
 | 7.17 | <input type = "checkbox" /> |
 | 7.18 | <input type = "checkbox" /> |
@@ -71,13 +75,12 @@ _comment_: 每日详细完成度可通过 git 查看
 
 ## reciting
 
-1. [x] 语文背诵九上一篇(尝试使用 DOG 方法)
-2. [x] 政治假期作业一面
+1. [ ] 语文背诵九上一篇(尝试使用 DOG 方法)
 
 ### 复习
 
 1. [ ] 语文背诵并默写 半本书 !ipt 春 纪念白求恩 从百草园到三味书屋 假如生活欺骗了你 天上的街市 未选择的路
-2. [x] 英语单词 60 + 复习
+2. [ ] 英语单词 60 + 复习
 3. [ ] 历史二单元（能记多少记多少）
 
 ## meditation
@@ -88,6 +91,8 @@ https://www.bilibili.com/video/BV1Rq4y1F7r4
 
 TODO: 加入体考训练
 
+TODO: 每天交替做,周计划
+
 ### morning exercise
 
 - 跑步
@@ -96,11 +101,11 @@ TODO: 加入体考训练
 
   2. [跑步](https://www.bilibili.com/audio/au2436495)
 
-- [俯卧撑](https://www.bilibili.com/video/BV14K4y1W7iQ)
-
 ### afternoon exercise
 
 - 爬楼梯 20min
+
+- [俯卧撑](https://www.bilibili.com/video/BV14K4y1W7iQ)
 
 - [脊柱活动](https://www.bilibili.com/video/BV17Y4y1E7oX)
 
@@ -108,19 +113,29 @@ TODO: 加入体考训练
 
 ## vocal
 
-- [声乐](https://space.bilibili.com/540564177/channel/seriesdetail?sid=217891)
+https://space.bilibili.com/540564177/channel/seriesdetail?sid=217891
+
+https://www.bilibili.com/video/BV1vU4y1h7nh
 
 ## computer science
 
+- CS61A
+- [leetcode](https://www.bilibili.com/video/BV1xa411A76q)
+- algorithms 算法图解
+
 - [编程通识](https://space.bilibili.com/504715181/channel/collectiondetail?sid=284254)
-- algorithms
-- leetcode
-- tkinter
 - [计算机专业上](https://www.bilibili.com/video/BV1xg411T7c1) | [计算机专业下](https://www.bilibili.com/video/BV1YF411a75Y)
+
 - qt
 - c++
+- rust
 - python
+  - tkinter
 - web front-end
+  - html
+  - css
+  - ts/js
+  - 某框架
 - DIP
 - opencv
 - matplotlib
@@ -151,6 +166,8 @@ TODO: 加入体考训练
 - [一些子的应试经验](https://space.bilibili.com/7920565/channel/collectiondetail?sid=453312)
 
 ### homework
+
+@daily 听写 + 复习计划 4 页
 
 <!-- {{{ -->
 <details>
@@ -220,6 +237,8 @@ _暑假先看学过的_
 - [一数几何辅助线](https://space.bilibili.com/14229967/channel/collectiondetail?sid=322454)
 
 ### homework
+
+@daily 册子一课
 
 <!-- {{{ -->
 
@@ -292,6 +311,8 @@ _暑假先看学过的_
 
 ### homework
 
+@daily 册子一课
+
 - 学个英文歌，要不就 _Empty World_?
 - due:8.01 复习计划
 - begin:8.20 一起作业预习
@@ -300,6 +321,8 @@ _暑假先看学过的_
 ## morality and legality
 
 ### homework
+
+@daily 政治假期作业一面
 
 - 知识点
 - 知识点背诵
@@ -315,11 +338,15 @@ _暑假先看学过的_
 
 ### homework
 
+@daily 背诵一单元
+
 ## physics
 
 - https://space.bilibili.com/299200219/video
 
 ### homework
+
+@daily 册子一课
 
 <!-- {{{ -->
 <details>
@@ -366,6 +393,8 @@ _暑假先看学过的_
 - [元素周期表记忆](https://www.bilibili.com/video/BV1ub4y1z7Hq)
 
 ### homework
+
+@daily
 
 > [文档](https://www.aliyundrive.com/s/QjXSLWpB7wM)
 
