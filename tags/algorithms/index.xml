@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>python on pu's blog</title><link>https://zpyg.github.io/blog/tags/python/</link><description>Recent content in python on pu's blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sat, 16 Jul 2022 11:53:30 +0800</lastBuildDate><atom:link href="https://zpyg.github.io/blog/tags/python/index.xml" rel="self" type="application/rss+xml"/><item><title>Leetcode 刷题 1</title><link>https://zpyg.github.io/blog/p/leetcode-%E5%88%B7%E9%A2%98-1/</link><pubDate>Sat, 16 Jul 2022 11:53:30 +0800</pubDate><guid>https://zpyg.github.io/blog/p/leetcode-%E5%88%B7%E9%A2%98-1/</guid><description>&lt;h2 id="1-两数之和">1. 两数之和&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>algorithms on pu's blog</title><link>https://zpyg.github.io/blog/tags/algorithms/</link><description>Recent content in algorithms on pu's blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sat, 16 Jul 2022 11:53:30 +0800</lastBuildDate><atom:link href="https://zpyg.github.io/blog/tags/algorithms/index.xml" rel="self" type="application/rss+xml"/><item><title>Leetcode 刷题 1</title><link>https://zpyg.github.io/blog/p/leetcode-%E5%88%B7%E9%A2%98-1/</link><pubDate>Sat, 16 Jul 2022 11:53:30 +0800</pubDate><guid>https://zpyg.github.io/blog/p/leetcode-%E5%88%B7%E9%A2%98-1/</guid><description>&lt;h2 id="1-两数之和">1. 两数之和&lt;/h2>
 &lt;blockquote>
 &lt;p>有人相爱，有人夜里开车看海，有人 leetcode 第一题都做不出来。&lt;/p>
 &lt;/blockquote>
@@ -336,25 +336,4 @@ O(n) 空间，一维数组等
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#fe8019">return&lt;/span> l &lt;span style="color:#fe8019">if&lt;/span> nums[l] &lt;span style="color:#fe8019">==&lt;/span> val &lt;span style="color:#fe8019">else&lt;/span> l &lt;span style="color:#fe8019">+&lt;/span> &lt;span style="color:#d3869b">1&lt;/span>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
-&lt;/div></description></item><item><title>[CS61A]Lecture1 Introduction</title><link>https://zpyg.github.io/blog/p/cs61alecture1-introduction/</link><pubDate>Wed, 06 Jul 2022 18:00:54 +0800</pubDate><guid>https://zpyg.github.io/blog/p/cs61alecture1-introduction/</guid><description>&lt;ul>
-&lt;li>
-&lt;p>&lt;a class="link" href="https://inst.eecs.berkeley.edu/~cs61a/sp21/" target="_blank" rel="noopener"
->website&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a class="link" href="https://www.bilibili.com/video/BV1v64y1Q78o" target="_blank" rel="noopener"
->Chinese lectures&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a class="link" href="http://composingprograms.com/pages/11-getting-started.html" target="_blank" rel="noopener"
->textbook&lt;/a>(推荐，中文版本略有差异)&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a class="link" href="https://www.bookstack.cn/read/sicp-py-zh/README.md" target="_blank" rel="noopener"
->textbook-cn&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a class="link" href="https://cs61a.org/articles/using-ok/#signing-in-with-ok" target="_blank" rel="noopener"
->homework using ok&lt;/a>&lt;/p>
-&lt;/li>
-&lt;/ul></description></item></channel></rss>
+&lt;/div></description></item></channel></rss>

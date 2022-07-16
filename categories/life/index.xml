@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Life on pu's blog</title><link>https://zpyg.github.io/blog/categories/life/</link><description>Recent content in Life on pu's blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Tue, 28 Jun 2022 19:38:24 +0800</lastBuildDate><atom:link href="https://zpyg.github.io/blog/categories/life/index.xml" rel="self" type="application/rss+xml"/><item><title>Vacation Plan</title><link>https://zpyg.github.io/blog/p/vacation-plan/</link><pubDate>Tue, 28 Jun 2022 19:38:24 +0800</pubDate><guid>https://zpyg.github.io/blog/p/vacation-plan/</guid><description>&lt;p>&lt;em>tip&lt;/em>: 恒 静 勤 实 远 诚 &amp;amp; NO 5S(Smart Phone, Short Video, Social Software, mySelf DIY Machine)&lt;/p>
-&lt;blockquote>
+&lt;div class="highlight">&lt;div style="color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
+&lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
+&lt;pre tabindex="0" style="color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#756d59">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+&lt;pre tabindex="0" style="color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-vim" data-lang="vim">&lt;span style="display:flex;">&lt;span>normal gg&amp;lt;S-v&amp;gt;G:s&lt;span style="color:#b8bb26">/\[x\]/&lt;/span>[ ]/g
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;blockquote>
 &lt;p>Daily Plan&lt;/p>
 &lt;/blockquote>
 &lt;table>
@@ -38,17 +46,17 @@
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">1h30min&lt;/td>
-&lt;td style="text-align:left">作业 理&lt;/td>
+&lt;td style="text-align:left">学理(不把作业看成作业，都是自己主动的学,掌握主动权)&lt;/td>
 &lt;td style="text-align:center">[x]&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">1h30min&lt;/td>
 &lt;td style="text-align:left">&lt;a class="link" href="#reciting" >reciting&lt;/a>&lt;/td>
-&lt;td style="text-align:center">[x]&lt;/td>
+&lt;td style="text-align:center">[-]&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">1h&lt;/td>
-&lt;td style="text-align:left">学习 文&lt;/td>
+&lt;td style="text-align:left">学文&lt;/td>
 &lt;td style="text-align:center">[ ]&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -64,22 +72,22 @@
 &lt;tr>
 &lt;td style="text-align:left">30min&lt;/td>
 &lt;td style="text-align:left">&lt;a class="link" href="#afternoon-exercise" >exercise&lt;/a>&lt;/td>
+&lt;td style="text-align:center">[ ]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">1h&lt;/td>
+&lt;td style="text-align:left">学文&lt;/td>
 &lt;td style="text-align:center">[x]&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">1h&lt;/td>
-&lt;td style="text-align:left">作业 文&lt;/td>
-&lt;td style="text-align:center">[x]&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align:left">1h&lt;/td>
-&lt;td style="text-align:left">学习 理&lt;/td>
+&lt;td style="text-align:left">学理&lt;/td>
 &lt;td style="text-align:center">[ ]&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">1h30min&lt;/td>
 &lt;td style="text-align:left">computer science&lt;/td>
-&lt;td style="text-align:center">[x]&lt;/td>
+&lt;td style="text-align:center">[ ]&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">10min&lt;/td>
@@ -94,7 +102,7 @@
 &lt;tr>
 &lt;td style="text-align:left">1h&lt;/td>
 &lt;td style="text-align:left">&lt;a class="link" href="#calligraphy" >calligraphy&lt;/a>&lt;/td>
-&lt;td style="text-align:center">[x]&lt;/td>
+&lt;td style="text-align:center">[ ]&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">40min&lt;/td>
@@ -135,7 +143,7 @@
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">7.15&lt;/td>
-&lt;td style="text-align:center">&lt;input type = "checkbox" />&lt;/td>
+&lt;td style="text-align:center">完成基本内容 浪费大半天; 1. 不能好一天坏一天，要有固定节奏 2. 不要用长视频、连续剧情型视频娱乐，碎片时间可以背单词、背书 3. 少人际交往，说话注意考量，不要想太多&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">7.16&lt;/td>
@@ -210,13 +218,12 @@
 &lt;p>中华上下五千年&lt;/p>
 &lt;h2 id="reciting">reciting&lt;/h2>
 &lt;ol>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> 语文背诵九上一篇(尝试使用 DOG 方法)&lt;/li>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> 政治假期作业一面&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 语文背诵九上一篇(尝试使用 DOG 方法)&lt;/li>
 &lt;/ol>
 &lt;h3 id="复习">复习&lt;/h3>
 &lt;ol>
 &lt;li>&lt;input disabled="" type="checkbox"> 语文背诵并默写 半本书 !ipt 春 纪念白求恩 从百草园到三味书屋 假如生活欺骗了你 天上的街市 未选择的路&lt;/li>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> 英语单词 60 + 复习&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 英语单词 60 + 复习&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> 历史二单元（能记多少记多少）&lt;/li>
 &lt;/ol>
 &lt;h2 id="meditation">meditation&lt;/h2>
@@ -224,6 +231,7 @@
 >https://www.bilibili.com/video/BV1Rq4y1F7r4&lt;/a>&lt;/p>
 &lt;h2 id="exercise">exercise&lt;/h2>
 &lt;p>TODO: 加入体考训练&lt;/p>
+&lt;p>TODO: 每天交替做,周计划&lt;/p>
 &lt;h3 id="morning-exercise">morning exercise&lt;/h3>
 &lt;ul>
 &lt;li>
@@ -239,15 +247,15 @@
 &lt;/li>
 &lt;/ol>
 &lt;/li>
-&lt;li>
-&lt;p>&lt;a class="link" href="https://www.bilibili.com/video/BV14K4y1W7iQ" target="_blank" rel="noopener"
->俯卧撑&lt;/a>&lt;/p>
-&lt;/li>
 &lt;/ul>
 &lt;h3 id="afternoon-exercise">afternoon exercise&lt;/h3>
 &lt;ul>
 &lt;li>
 &lt;p>爬楼梯 20min&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a class="link" href="https://www.bilibili.com/video/BV14K4y1W7iQ" target="_blank" rel="noopener"
+>俯卧撑&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;a class="link" href="https://www.bilibili.com/video/BV17Y4y1E7oX" target="_blank" rel="noopener"
@@ -259,27 +267,64 @@
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="vocal">vocal&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a class="link" href="https://space.bilibili.com/540564177/channel/seriesdetail?sid=217891" target="_blank" rel="noopener"
->声乐&lt;/a>&lt;/li>
-&lt;/ul>
+&lt;p>&lt;a class="link" href="https://space.bilibili.com/540564177/channel/seriesdetail?sid=217891" target="_blank" rel="noopener"
+>https://space.bilibili.com/540564177/channel/seriesdetail?sid=217891&lt;/a>&lt;/p>
+&lt;p>&lt;a class="link" href="https://www.bilibili.com/video/BV1vU4y1h7nh" target="_blank" rel="noopener"
+>https://www.bilibili.com/video/BV1vU4y1h7nh&lt;/a>&lt;/p>
 &lt;h2 id="computer-science">computer science&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a class="link" href="https://space.bilibili.com/504715181/channel/collectiondetail?sid=284254" target="_blank" rel="noopener"
->编程通识&lt;/a>&lt;/li>
-&lt;li>algorithms&lt;/li>
-&lt;li>leetcode&lt;/li>
-&lt;li>tkinter&lt;/li>
-&lt;li>&lt;a class="link" href="https://www.bilibili.com/video/BV1xg411T7c1" target="_blank" rel="noopener"
+&lt;li>
+&lt;p>CS61A&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a class="link" href="https://www.bilibili.com/video/BV1xa411A76q" target="_blank" rel="noopener"
+>leetcode&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>algorithms 算法图解&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a class="link" href="https://space.bilibili.com/504715181/channel/collectiondetail?sid=284254" target="_blank" rel="noopener"
+>编程通识&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a class="link" href="https://www.bilibili.com/video/BV1xg411T7c1" target="_blank" rel="noopener"
 >计算机专业上&lt;/a> | &lt;a class="link" href="https://www.bilibili.com/video/BV1YF411a75Y" target="_blank" rel="noopener"
->计算机专业下&lt;/a>&lt;/li>
-&lt;li>qt&lt;/li>
-&lt;li>c++&lt;/li>
-&lt;li>python&lt;/li>
-&lt;li>web front-end&lt;/li>
-&lt;li>DIP&lt;/li>
-&lt;li>opencv&lt;/li>
-&lt;li>matplotlib&lt;/li>
+>计算机专业下&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>qt&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>c++&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>rust&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>python&lt;/p>
+&lt;ul>
+&lt;li>tkinter&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>web front-end&lt;/p>
+&lt;ul>
+&lt;li>html&lt;/li>
+&lt;li>css&lt;/li>
+&lt;li>ts/js&lt;/li>
+&lt;li>某框架&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>DIP&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>opencv&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>matplotlib&lt;/p>
+&lt;/li>
 &lt;/ul>
 &lt;h2 id="calligraphy">calligraphy&lt;/h2>
 &lt;h3 id="汉字行书楷书">汉字(行书+楷书)&lt;/h3>
@@ -329,6 +374,7 @@ allowfullscreen="true"
 >一些子的应试经验&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h3 id="homework">homework&lt;/h3>
+&lt;p>@daily 听写 + 复习计划 4 页&lt;/p>
 &lt;!-- {{{ -->
 &lt;details>
 &lt;table>
@@ -516,6 +562,7 @@ allowfullscreen="true"
 >一数几何辅助线&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h3 id="homework-1">homework&lt;/h3>
+&lt;p>@daily 册子一课&lt;/p>
 &lt;!-- {{{ -->
 &lt;details>
 &lt;table>
@@ -714,6 +761,7 @@ allowfullscreen="true"
 &lt;p>&lt;a class="link" href="https://zpyg.github.io/blog/p/cs61alecture1-introduction/" target="_blank" rel="noopener"
 >CS61A + English SICP Python&lt;/a>(这也是 English Movie 吧)&lt;/p>
 &lt;h3 id="homework-2">homework&lt;/h3>
+&lt;p>@daily 册子一课&lt;/p>
 &lt;ul>
 &lt;li>学个英文歌，要不就 &lt;em>Empty World&lt;/em>?&lt;/li>
 &lt;li>due:8.01 复习计划&lt;/li>
@@ -722,6 +770,7 @@ allowfullscreen="true"
 &lt;/ul>
 &lt;h2 id="morality-and-legality">morality and legality&lt;/h2>
 &lt;h3 id="homework-3">homework&lt;/h3>
+&lt;p>@daily 政治假期作业一面&lt;/p>
 &lt;ul>
 &lt;li>知识点&lt;/li>
 &lt;li>知识点背诵&lt;/li>
@@ -742,12 +791,14 @@ allowfullscreen="true"
 >resource&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h3 id="homework-4">homework&lt;/h3>
+&lt;p>@daily 背诵一单元&lt;/p>
 &lt;h2 id="physics">physics&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a class="link" href="https://space.bilibili.com/299200219/video" target="_blank" rel="noopener"
 >https://space.bilibili.com/299200219/video&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h3 id="homework-5">homework&lt;/h3>
+&lt;p>@daily 册子一课&lt;/p>
 &lt;!-- {{{ -->
 &lt;details>
 &lt;table>
@@ -886,6 +937,7 @@ allowfullscreen="true"
 &lt;/li>
 &lt;/ul>
 &lt;h3 id="homework-6">homework&lt;/h3>
+&lt;p>@daily&lt;/p>
 &lt;blockquote>
 &lt;p>&lt;a class="link" href="https://www.aliyundrive.com/s/QjXSLWpB7wM" target="_blank" rel="noopener"
 >文档&lt;/a>&lt;/p>
