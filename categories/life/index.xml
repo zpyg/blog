@@ -32,12 +32,12 @@
 &lt;tr>
 &lt;td style="text-align:left">1h10min&lt;/td>
 &lt;td style="text-align:left">&lt;a class="link" href="#morning-exercise" >exercise&lt;/a>&lt;/td>
-&lt;td style="text-align:center">[x]&lt;/td>
+&lt;td style="text-align:center">[ ]&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">20min&lt;/td>
 &lt;td style="text-align:left">&lt;a class="link" href="#vocal" >vocal&lt;/a>&lt;/td>
-&lt;td style="text-align:center">[x]&lt;/td>
+&lt;td style="text-align:center">[ ]&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">&lt;/td>
@@ -52,12 +52,12 @@
 &lt;tr>
 &lt;td style="text-align:left">1h30min&lt;/td>
 &lt;td style="text-align:left">&lt;a class="link" href="#reciting" >reciting&lt;/a>&lt;/td>
-&lt;td style="text-align:center">[-]&lt;/td>
+&lt;td style="text-align:center">[ ]&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">1h&lt;/td>
 &lt;td style="text-align:left">学文&lt;/td>
-&lt;td style="text-align:center">[ ]&lt;/td>
+&lt;td style="text-align:center">[x]&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">&lt;/td>
@@ -67,7 +67,7 @@
 &lt;tr>
 &lt;td style="text-align:left">1h30min&lt;/td>
 &lt;td style="text-align:left">&lt;a class="link" href="#reading" >reading&lt;/a>&lt;/td>
-&lt;td style="text-align:center">[ ]&lt;/td>
+&lt;td style="text-align:center">[-]&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">30min&lt;/td>
@@ -76,8 +76,8 @@
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">1h&lt;/td>
-&lt;td style="text-align:left">学文&lt;/td>
-&lt;td style="text-align:center">[x]&lt;/td>
+&lt;td style="text-align:left">学文（实在不行就强制）&lt;/td>
+&lt;td style="text-align:center">[ ]&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">1h&lt;/td>
@@ -87,7 +87,7 @@
 &lt;tr>
 &lt;td style="text-align:left">1h30min&lt;/td>
 &lt;td style="text-align:left">computer science&lt;/td>
-&lt;td style="text-align:center">[ ]&lt;/td>
+&lt;td style="text-align:center">[x]&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">10min&lt;/td>
@@ -102,7 +102,7 @@
 &lt;tr>
 &lt;td style="text-align:left">1h&lt;/td>
 &lt;td style="text-align:left">&lt;a class="link" href="#calligraphy" >calligraphy&lt;/a>&lt;/td>
-&lt;td style="text-align:center">[ ]&lt;/td>
+&lt;td style="text-align:center">[x]&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">40min&lt;/td>
@@ -147,7 +147,7 @@
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">7.16&lt;/td>
-&lt;td style="text-align:center">&lt;input type = "checkbox" />&lt;/td>
+&lt;td style="text-align:center">补充昨天内容 还是分心看 bili 了，不过总算了断了 不要陷入懊悔的恶性循环 也还有收获 明天应该会更专注了 已经到下半月了，时间很紧 祈祷 向自己&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">7.17&lt;/td>
