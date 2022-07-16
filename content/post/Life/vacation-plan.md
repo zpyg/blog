@@ -19,21 +19,21 @@ normal gg<S-v>G:s/\[x\]/[ ]/g
 | :------------------------- | :-------------------------------------------------- | :----: |
 | **5:30**                   | **get up**                                          |   \_   |
 | 30min                      | [meditation](meditation)                            |  [x]   |
-| 1h10min                    | [exercise](#morning-exercise)                       |  [x]   |
-| 20min                      | [vocal](#vocal)                                     |  [x]   |
+| 1h10min                    | [exercise](#morning-exercise)                       |  [ ]   |
+| 20min                      | [vocal](#vocal)                                     |  [ ]   |
 |                            | _breakfast_                                         |   \_   |
 | 1h30min                    | 学理(不把作业看成作业，都是自己主动的学,掌握主动权) |  [x]   |
-| 1h30min                    | [reciting](#reciting)                               |  [-]   |
-| 1h                         | 学文                                                |  [ ]   |
-|                            | _lunch_                                             |   \_   |
-| 1h30min                    | [reading](#reading)                                 |  [ ]   |
-| 30min                      | [exercise](#afternoon-exercise)                     |  [ ]   |
+| 1h30min                    | [reciting](#reciting)                               |  [ ]   |
 | 1h                         | 学文                                                |  [x]   |
+|                            | _lunch_                                             |   \_   |
+| 1h30min                    | [reading](#reading)                                 |  [-]   |
+| 30min                      | [exercise](#afternoon-exercise)                     |  [ ]   |
+| 1h                         | 学文（实在不行就强制）                              |  [ ]   |
 | 1h                         | 学理                                                |  [ ]   |
-| 1h30min                    | computer science                                    |  [ ]   |
+| 1h30min                    | computer science                                    |  [x]   |
 | 10min                      | _处理消息仅限于此时_                                |   \_   |
 |                            | _dinner_                                            |   \_   |
-| 1h                         | [calligraphy](#calligraphy)                         |  [ ]   |
+| 1h                         | [calligraphy](#calligraphy)                         |  [x]   |
 | 40min                      | review 文科复习                                     |  [ ]   |
 | 40min                      | review 理科改错                                     |  [ ]   |
 | **21:20**                  | **go to bed**                                       |   \_   |
@@ -45,8 +45,8 @@ _comment_: 每日详细完成度可通过 git 查看
 | :--: | :-------------------------: |
 | 7.13 | 执行失败 |
 | 7.14 | 大部分完成 浪费大概 2h 时间<br/>得考虑每日选择部分内容 目前时间不太够<br/>做完非常重实 |
-| 7.15 | 完成基本内容 浪费大半天; 1. 不能好一天坏一天，要有固定节奏 2. 不要用长视频、连续剧情型视频娱乐，碎片时间可以背单词、背书 3. 少人际交往，说话注意考量，不要想太多  |
-| 7.16 | <input type = "checkbox" /> |
+| 7.15 | 完成基本内容 浪费大半天; 1. 不能好一天坏一天，要有固定节奏 2. 不要用长视频、连续剧情型视频娱乐，碎片时间可以背单词、背书 3. 少人际交往，说话注意考量，不要想太多 |
+| 7.16 | 补充昨天内容 还是分心看 bili 了，不过总算了断了 不要陷入懊悔的恶性循环 也还有收获 明天应该会更专注了 已经到下半月了，时间很紧 祈祷 向自己|
 | 7.17 | <input type = "checkbox" /> |
 | 7.18 | <input type = "checkbox" /> |
 | 7.19 | <input type = "checkbox" /> |
