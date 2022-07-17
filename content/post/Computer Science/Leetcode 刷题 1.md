@@ -194,9 +194,9 @@ class Solution:
             nums[i] = 0
 ```
 
-## 27. 移除元素
+### 27. 移除元素
 
-### 类似 283
+#### 类似 283
 
 ```python
 class Solution:
@@ -213,7 +213,7 @@ class Solution:
         return len(nums)
 ```
 
-### 标准双指针法
+#### 标准双指针法
 
 ```python
 class Solution:
