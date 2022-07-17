@@ -1,25 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>programming on pu's blog</title><link>https://zpyg.github.io/blog/tags/programming/</link><description>Recent content in programming on pu's blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Wed, 06 Jul 2022 18:00:54 +0800</lastBuildDate><atom:link href="https://zpyg.github.io/blog/tags/programming/index.xml" rel="self" type="application/rss+xml"/><item><title>[CS61A]Lecture1 Introduction</title><link>https://zpyg.github.io/blog/p/cs61alecture1-introduction/</link><pubDate>Wed, 06 Jul 2022 18:00:54 +0800</pubDate><guid>https://zpyg.github.io/blog/p/cs61alecture1-introduction/</guid><description>&lt;ul>
-&lt;li>
-&lt;p>&lt;a class="link" href="https://inst.eecs.berkeley.edu/~cs61a/sp21/" target="_blank" rel="noopener"
->website&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a class="link" href="https://www.bilibili.com/video/BV1v64y1Q78o" target="_blank" rel="noopener"
->Chinese lectures&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a class="link" href="http://composingprograms.com/pages/11-getting-started.html" target="_blank" rel="noopener"
->textbook&lt;/a>(推荐，中文版本略有差异)&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a class="link" href="https://www.bookstack.cn/read/sicp-py-zh/README.md" target="_blank" rel="noopener"
->textbook-cn&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a class="link" href="https://cs61a.org/articles/using-ok/#signing-in-with-ok" target="_blank" rel="noopener"
->homework using ok&lt;/a>&lt;/p>
-&lt;/li>
-&lt;/ul></description></item><item><title>CS61A 课程资源</title><link>https://zpyg.github.io/blog/p/cs61a-%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%BA%90/</link><pubDate>Wed, 06 Jul 2022 18:00:54 +0800</pubDate><guid>https://zpyg.github.io/blog/p/cs61a-%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%BA%90/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Programming on pu's blog</title><link>https://zpyg.github.io/blog/tags/programming/</link><description>Recent content in Programming on pu's blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Thu, 07 Jul 2022 20:13:47 +0800</lastBuildDate><atom:link href="https://zpyg.github.io/blog/tags/programming/index.xml" rel="self" type="application/rss+xml"/><item><title>CS61A Chapter 1:Building Abstractions with Functions</title><link>https://zpyg.github.io/blog/p/cs61a-chapter-1building-abstractions-with-functions/</link><pubDate>Thu, 07 Jul 2022 20:13:47 +0800</pubDate><guid>https://zpyg.github.io/blog/p/cs61a-chapter-1building-abstractions-with-functions/</guid><description>&lt;h2 id="functions">Functions&lt;/h2>
+&lt;h2 id="expressions">Expressions&lt;/h2>
+&lt;h2 id="environments">Environments&lt;/h2></description></item><item><title>CS61A 课程资源</title><link>https://zpyg.github.io/blog/p/cs61a-%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%BA%90/</link><pubDate>Wed, 06 Jul 2022 18:00:54 +0800</pubDate><guid>https://zpyg.github.io/blog/p/cs61a-%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%BA%90/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a class="link" href="https://inst.eecs.berkeley.edu/~cs61a/sp21/" target="_blank" rel="noopener"
 >website&lt;/a>&lt;/p>

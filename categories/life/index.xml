@@ -10,6 +10,30 @@
 &lt;/div>&lt;blockquote>
 &lt;p>Daily Plan&lt;/p>
 &lt;/blockquote>
+&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> 语文阅读补完 x 7&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 语文文言积累&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 语文快速阅读&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 语文课外阅读&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 语文古诗文复习&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 语文字词复习&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 语文新课文背诵&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 艾青诗选&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 语文作文 + 五匪子经验 + 素材 + 句子&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 数学 2 课&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 数学 + 一数&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 历史 背诵 二单元&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 英语单词复习&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 化学预习&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 英语 1 课&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 政治 3 面&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 物理 2 课&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 物理 ++&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 练字&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> leetcode&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 锻炼 +加大训练量 +增加体考内容 +排球 +篮球&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 声乐&lt;/li>
+&lt;/ul>
 &lt;table>
 &lt;thead>
 &lt;tr>
@@ -32,7 +56,7 @@
 &lt;tr>
 &lt;td style="text-align:left">1h10min&lt;/td>
 &lt;td style="text-align:left">&lt;a class="link" href="#morning-exercise" >exercise&lt;/a>&lt;/td>
-&lt;td style="text-align:center">[ ]&lt;/td>
+&lt;td style="text-align:center">[-]&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">20min&lt;/td>
@@ -47,12 +71,12 @@
 &lt;tr>
 &lt;td style="text-align:left">1h30min&lt;/td>
 &lt;td style="text-align:left">学理(不把作业看成作业，都是自己主动的学,掌握主动权)&lt;/td>
-&lt;td style="text-align:center">[x]&lt;/td>
+&lt;td style="text-align:center">[ ]&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">1h30min&lt;/td>
 &lt;td style="text-align:left">&lt;a class="link" href="#reciting" >reciting&lt;/a>&lt;/td>
-&lt;td style="text-align:center">[ ]&lt;/td>
+&lt;td style="text-align:center">[-]&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">1h&lt;/td>
@@ -87,7 +111,7 @@
 &lt;tr>
 &lt;td style="text-align:left">1h30min&lt;/td>
 &lt;td style="text-align:left">computer science&lt;/td>
-&lt;td style="text-align:center">[x]&lt;/td>
+&lt;td style="text-align:center">[ ]&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">10min&lt;/td>
@@ -102,7 +126,7 @@
 &lt;tr>
 &lt;td style="text-align:left">1h&lt;/td>
 &lt;td style="text-align:left">&lt;a class="link" href="#calligraphy" >calligraphy&lt;/a>&lt;/td>
-&lt;td style="text-align:center">[x]&lt;/td>
+&lt;td style="text-align:center">[-]&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">40min&lt;/td>
@@ -112,7 +136,7 @@
 &lt;tr>
 &lt;td style="text-align:left">40min&lt;/td>
 &lt;td style="text-align:left">review 理科改错&lt;/td>
-&lt;td style="text-align:center">[ ]&lt;/td>
+&lt;td style="text-align:center">[x]&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">&lt;strong>21:20&lt;/strong>&lt;/td>
@@ -151,7 +175,7 @@
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">7.17&lt;/td>
-&lt;td style="text-align:center">&lt;input type = "checkbox" />&lt;/td>
+&lt;td style="text-align:center">欠的越来越多 一天过的飞快 回看啥也美干 应该专注的学。。总结起来似乎更有紧迫感，也是一种反馈 15 号影响太大了 努力克服 学的时候一定要专心学，考虑专门留时间放松，而不是这样三分打鱼 2.9 分晒网 一切都会好起来的&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">7.18&lt;/td>
@@ -218,13 +242,13 @@
 &lt;p>中华上下五千年&lt;/p>
 &lt;h2 id="reciting">reciting&lt;/h2>
 &lt;ol>
-&lt;li>&lt;input disabled="" type="checkbox"> 语文背诵九上一篇(尝试使用 DOG 方法)&lt;/li>
+&lt;li>语文背诵九上一篇(尝试使用 DOG 方法)&lt;/li>
 &lt;/ol>
 &lt;h3 id="复习">复习&lt;/h3>
 &lt;ol>
-&lt;li>&lt;input disabled="" type="checkbox"> 语文背诵并默写 半本书 !ipt 春 纪念白求恩 从百草园到三味书屋 假如生活欺骗了你 天上的街市 未选择的路&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> 英语单词 60 + 复习&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> 历史二单元（能记多少记多少）&lt;/li>
+&lt;li>语文背诵并默写 半本书 !ipt 春 纪念白求恩 从百草园到三味书屋 假如生活欺骗了你 天上的街市 未选择的路&lt;/li>
+&lt;li>英语单词 60 + 复习&lt;/li>
+&lt;li>历史二单元（能记多少记多少）&lt;/li>
 &lt;/ol>
 &lt;h2 id="meditation">meditation&lt;/h2>
 &lt;p>&lt;a class="link" href="https://www.bilibili.com/video/BV1Rq4y1F7r4" target="_blank" rel="noopener"
@@ -374,7 +398,6 @@ allowfullscreen="true"
 >一些子的应试经验&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h3 id="homework">homework&lt;/h3>
-&lt;p>@daily 听写 + 复习计划 4 页&lt;/p>
 &lt;!-- {{{ -->
 &lt;details>
 &lt;table>
@@ -483,7 +506,7 @@ allowfullscreen="true"
 &lt;/tr>
 &lt;tr>
 &lt;td>8.6&lt;/td>
-&lt;td>1. 《水浒传》开始听写九年级上册第一单元字词并改错; 2. 阅读《全民阅读时代读书越多越好》&lt;/td>
+&lt;td>1. 《水浒传》开始 2.听写九年级上册第一单元字词并改错; 3. 阅读《全民阅读时代读书越多越好》&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>8.7&lt;/td>
@@ -562,7 +585,6 @@ allowfullscreen="true"
 >一数几何辅助线&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h3 id="homework-1">homework&lt;/h3>
-&lt;p>@daily 册子一课&lt;/p>
 &lt;!-- {{{ -->
 &lt;details>
 &lt;table>
@@ -761,7 +783,6 @@ allowfullscreen="true"
 &lt;p>&lt;a class="link" href="https://zpyg.github.io/blog/p/cs61alecture1-introduction/" target="_blank" rel="noopener"
 >CS61A + English SICP Python&lt;/a>(这也是 English Movie 吧)&lt;/p>
 &lt;h3 id="homework-2">homework&lt;/h3>
-&lt;p>@daily 册子一课&lt;/p>
 &lt;ul>
 &lt;li>学个英文歌，要不就 &lt;em>Empty World&lt;/em>?&lt;/li>
 &lt;li>due:8.01 复习计划&lt;/li>
@@ -770,7 +791,6 @@ allowfullscreen="true"
 &lt;/ul>
 &lt;h2 id="morality-and-legality">morality and legality&lt;/h2>
 &lt;h3 id="homework-3">homework&lt;/h3>
-&lt;p>@daily 政治假期作业一面&lt;/p>
 &lt;ul>
 &lt;li>知识点&lt;/li>
 &lt;li>知识点背诵&lt;/li>
@@ -791,14 +811,12 @@ allowfullscreen="true"
 >resource&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h3 id="homework-4">homework&lt;/h3>
-&lt;p>@daily 背诵一单元&lt;/p>
 &lt;h2 id="physics">physics&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a class="link" href="https://space.bilibili.com/299200219/video" target="_blank" rel="noopener"
 >https://space.bilibili.com/299200219/video&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h3 id="homework-5">homework&lt;/h3>
-&lt;p>@daily 册子一课&lt;/p>
 &lt;!-- {{{ -->
 &lt;details>
 &lt;table>
@@ -937,7 +955,6 @@ allowfullscreen="true"
 &lt;/li>
 &lt;/ul>
 &lt;h3 id="homework-6">homework&lt;/h3>
-&lt;p>@daily&lt;/p>
 &lt;blockquote>
 &lt;p>&lt;a class="link" href="https://www.aliyundrive.com/s/QjXSLWpB7wM" target="_blank" rel="noopener"
 >文档&lt;/a>&lt;/p>

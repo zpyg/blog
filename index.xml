@@ -1,4 +1,115 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>pu's blog</title><link>https://zpyg.github.io/blog/</link><description>Recent content on pu's blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sat, 16 Jul 2022 11:53:30 +0800</lastBuildDate><atom:link href="https://zpyg.github.io/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Leetcode 刷题 1</title><link>https://zpyg.github.io/blog/p/leetcode-%E5%88%B7%E9%A2%98-1/</link><pubDate>Sat, 16 Jul 2022 11:53:30 +0800</pubDate><guid>https://zpyg.github.io/blog/p/leetcode-%E5%88%B7%E9%A2%98-1/</guid><description>&lt;h2 id="1-两数之和">1. 两数之和&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>pu's blog</title><link>https://zpyg.github.io/blog/</link><description>Recent content on pu's blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sun, 17 Jul 2022 18:11:25 +0800</lastBuildDate><atom:link href="https://zpyg.github.io/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>语文阅读公式+考点+类型</title><link>https://zpyg.github.io/blog/p/%E8%AF%AD%E6%96%87%E9%98%85%E8%AF%BB%E5%85%AC%E5%BC%8F-%E8%80%83%E7%82%B9-%E7%B1%BB%E5%9E%8B/</link><pubDate>Sun, 17 Jul 2022 18:11:25 +0800</pubDate><guid>https://zpyg.github.io/blog/p/%E8%AF%AD%E6%96%87%E9%98%85%E8%AF%BB%E5%85%AC%E5%BC%8F-%E8%80%83%E7%82%B9-%E7%B1%BB%E5%9E%8B/</guid><description>&lt;h2 id="预备方法与考点">预备：方法与考点&lt;/h2>
+&lt;h3 id="题尾定中心法">题尾定中心法&lt;/h3>
+&lt;h3 id="结构">结构&lt;/h3>
+&lt;p>文章的骨骼，决定怎么写的&lt;/p>
+&lt;h4 id="线索">线索&lt;/h4>
+&lt;p>贯穿全文的人、物、事&lt;/p>
+&lt;h4 id="铺垫">铺垫&lt;/h4>
+&lt;ul>
+&lt;li>开头: 引起下文&lt;/li>
+&lt;li>中间: 承上启下&lt;/li>
+&lt;li>结尾: 总结全文、引发思考、深化主旨&lt;/li>
+&lt;/ul>
+&lt;h3 id="内容">内容&lt;/h3>
+&lt;blockquote>
+&lt;p>文章的肌肉，决定写了什么&lt;/p>
+&lt;/blockquote>
+&lt;h4 id="表达">表达&lt;/h4>
+&lt;ul>
+&lt;li>
+&lt;p>修辞&lt;/p>
+&lt;ul>
+&lt;li>比喻&lt;/li>
+&lt;li>拟人&lt;/li>
+&lt;li>夸张&lt;/li>
+&lt;li>排比&lt;/li>
+&lt;li>反复&lt;/li>
+&lt;li>对偶&lt;/li>
+&lt;li>反问&lt;/li>
+&lt;li>设问&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>手法&lt;/p>
+&lt;ul>
+&lt;li>照应：是文章结构严谨，一般&lt;strong>结尾段&lt;/strong>&lt;/li>
+&lt;li>铺垫：在主要内容前，&lt;strong>对环境、气氛、情绪的描写&lt;/strong>&lt;/li>
+&lt;li>对比：两种相反的事物 | 一件事物的两面 （不一定好与坏，也可以是&lt;/li>
+&lt;li>象征&lt;/li>
+&lt;li>欲扬先抑&lt;/li>
+&lt;li>伏笔&lt;/li>
+&lt;li>悬念&lt;/li>
+&lt;li>虚实结合&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h4 id="中心">中心&lt;/h4>
+&lt;p>参考 &lt;a class="link" href="#%e9%a2%98%e5%b0%be%e5%ae%9a%e4%b8%ad%e5%bf%83%e6%b3%95" >题尾定中心法&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>表层&lt;/li>
+&lt;li>深层&lt;/li>
+&lt;/ul>
+&lt;h2 id="题型与公式">题型与公式&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">题型&lt;/th>
+&lt;th style="text-align:left">题干语言&lt;/th>
+&lt;th style="text-align:left">例题&lt;/th>
+&lt;th style="text-align:left">方法&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">中心&lt;/td>
+&lt;td style="text-align:left">什么意思？意义？情感？理解？&lt;/td>
+&lt;td style="text-align:left">请结合全文，谈谈对文章结尾这句话的理解。&lt;/td>
+&lt;td style="text-align:left">中心&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">概括&lt;/td>
+&lt;td style="text-align:left">讲了什么？概括？有哪些？是什么？&lt;/td>
+&lt;td style="text-align:left">第二自然段描述了作者在家乡生活的哪几件事？&lt;/td>
+&lt;td style="text-align:left">直接抄原文&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">作用&lt;/td>
+&lt;td style="text-align:left">为什么？有何作用？用意？&lt;/td>
+&lt;td style="text-align:left">作者令这句话单独成段有何好处？&lt;/td>
+&lt;td style="text-align:left">线索|铺垫 + 中心&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">表达&lt;/td>
+&lt;td style="text-align:left">有何好处？赏析？手法？表达效果？&lt;/td>
+&lt;td style="text-align:left">阅读文中划线句子，说一说作者这样写有何好处？&lt;/td>
+&lt;td style="text-align:left">运用了…修辞|手法，通过描写……生动形象地表达了……&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;blockquote>
+&lt;p>作者：&lt;a class="link" href="https://www.bilibili.com/read/cv7171675" target="_blank" rel="noopener"
+>中文系五匪子&lt;/a>&lt;/p>
+&lt;/blockquote></description></item><item><title>Linux 疑难杂症及常用命令</title><link>https://zpyg.github.io/blog/p/linux-%E7%96%91%E9%9A%BE%E6%9D%82%E7%97%87%E5%8F%8A%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</link><pubDate>Sun, 17 Jul 2022 12:23:45 +0800</pubDate><guid>https://zpyg.github.io/blog/p/linux-%E7%96%91%E9%9A%BE%E6%9D%82%E7%97%87%E5%8F%8A%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</guid><description>&lt;h2 id="archlinux-pacman--aur">archlinux pacman &amp;amp; AUR&lt;/h2>
+&lt;h3 id="一个或多个-pgp-签名无法校验">一个或多个 PGP 签名无法校验！&lt;/h3>
+&lt;h4 id="方式一导入-gpg-keys">方式一：导入 GPG keys&lt;/h4>
+&lt;div class="highlight">&lt;div style="color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
+&lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
+&lt;pre tabindex="0" style="color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#756d59">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+&lt;pre tabindex="0" style="color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>gpg &lt;span style="color:#fe8019">(&lt;/span>--keyserver &amp;lt;keyserver&amp;gt;&lt;span style="color:#fe8019">)&lt;/span> --recv-keys &amp;lt;key&amp;gt;
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h4 id="方式二跳过校验">方式二：跳过校验&lt;/h4>
+&lt;div class="highlight">&lt;div style="color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
+&lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
+&lt;pre tabindex="0" style="color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#756d59">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+&lt;pre tabindex="0" style="color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>makepkg --skippgpcheck
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div></description></item><item><title>Leetcode 刷题 1</title><link>https://zpyg.github.io/blog/p/leetcode-%E5%88%B7%E9%A2%98-1/</link><pubDate>Sat, 16 Jul 2022 11:53:30 +0800</pubDate><guid>https://zpyg.github.io/blog/p/leetcode-%E5%88%B7%E9%A2%98-1/</guid><description>&lt;h2 id="1-两数之和">1. 两数之和&lt;/h2>
 &lt;blockquote>
 &lt;p>有人相爱，有人夜里开车看海，有人 leetcode 第一题都做不出来。&lt;/p>
 &lt;/blockquote>
@@ -269,8 +380,8 @@ O(n) 空间，一维数组等
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> nums[i] &lt;span style="color:#fe8019">=&lt;/span> &lt;span style="color:#d3869b">0&lt;/span>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
-&lt;/div>&lt;h2 id="27-移除元素">27. 移除元素&lt;/h2>
-&lt;h3 id="类似-283">类似 283&lt;/h3>
+&lt;/div>&lt;h3 id="27-移除元素">27. 移除元素&lt;/h3>
+&lt;h4 id="类似-283">类似 283&lt;/h4>
 &lt;div class="highlight">&lt;div style="color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
 &lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
 &lt;pre tabindex="0" style="color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#756d59"> 1
@@ -301,7 +412,7 @@ O(n) 空间，一维数组等
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#fe8019">return&lt;/span> &lt;span style="color:#fabd2f">len&lt;/span>(nums)
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
-&lt;/div>&lt;h3 id="标准双指针法">标准双指针法&lt;/h3>
+&lt;/div>&lt;h4 id="标准双指针法">标准双指针法&lt;/h4>
 &lt;div class="highlight">&lt;div style="color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
 &lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
 &lt;pre tabindex="0" style="color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#756d59"> 1
@@ -336,28 +447,29 @@ O(n) 空间，一维数组等
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#fe8019">return&lt;/span> l &lt;span style="color:#fe8019">if&lt;/span> nums[l] &lt;span style="color:#fe8019">==&lt;/span> val &lt;span style="color:#fe8019">else&lt;/span> l &lt;span style="color:#fe8019">+&lt;/span> &lt;span style="color:#d3869b">1&lt;/span>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
-&lt;/div></description></item><item><title>[CS61A]Lecture1 Introduction</title><link>https://zpyg.github.io/blog/p/cs61alecture1-introduction/</link><pubDate>Wed, 06 Jul 2022 18:00:54 +0800</pubDate><guid>https://zpyg.github.io/blog/p/cs61alecture1-introduction/</guid><description>&lt;ul>
-&lt;li>
-&lt;p>&lt;a class="link" href="https://inst.eecs.berkeley.edu/~cs61a/sp21/" target="_blank" rel="noopener"
->website&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a class="link" href="https://www.bilibili.com/video/BV1v64y1Q78o" target="_blank" rel="noopener"
->Chinese lectures&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a class="link" href="http://composingprograms.com/pages/11-getting-started.html" target="_blank" rel="noopener"
->textbook&lt;/a>(推荐，中文版本略有差异)&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a class="link" href="https://www.bookstack.cn/read/sicp-py-zh/README.md" target="_blank" rel="noopener"
->textbook-cn&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a class="link" href="https://cs61a.org/articles/using-ok/#signing-in-with-ok" target="_blank" rel="noopener"
->homework using ok&lt;/a>&lt;/p>
-&lt;/li>
-&lt;/ul></description></item><item><title>CS61A 课程资源</title><link>https://zpyg.github.io/blog/p/cs61a-%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%BA%90/</link><pubDate>Wed, 06 Jul 2022 18:00:54 +0800</pubDate><guid>https://zpyg.github.io/blog/p/cs61a-%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%BA%90/</guid><description>&lt;ul>
+&lt;/div></description></item><item><title>文言</title><link>https://zpyg.github.io/blog/p/%E6%96%87%E8%A8%80/</link><pubDate>Tue, 12 Jul 2022 09:11:11 +0800</pubDate><guid>https://zpyg.github.io/blog/p/%E6%96%87%E8%A8%80/</guid><description>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">词&lt;/th>
+&lt;th style="text-align:center">意&lt;/th>
+&lt;th style="text-align:center">源&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">揽辔(pèi)&lt;/td>
+&lt;td style="text-align:center">拿起缰绳&lt;/td>
+&lt;td style="text-align:center">世说新语 德行 1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">式=轼&lt;/td>
+&lt;td style="text-align:center">车前扶手横木&lt;/td>
+&lt;td style="text-align:center">世说新语 德行 1 -&amp;gt; 武王式商容之&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>RealMe GT Neo Flash(闪速版)Root 及刷机救砖</title><link>https://zpyg.github.io/blog/p/realme-gt-neo-flash%E9%97%AA%E9%80%9F%E7%89%88root-%E5%8F%8A%E5%88%B7%E6%9C%BA%E6%95%91%E7%A0%96/</link><pubDate>Fri, 08 Jul 2022 16:23:06 +0800</pubDate><guid>https://zpyg.github.io/blog/p/realme-gt-neo-flash%E9%97%AA%E9%80%9F%E7%89%88root-%E5%8F%8A%E5%88%B7%E6%9C%BA%E6%95%91%E7%A0%96/</guid><description/></item><item><title>CS61A Chapter 1:Building Abstractions with Functions</title><link>https://zpyg.github.io/blog/p/cs61a-chapter-1building-abstractions-with-functions/</link><pubDate>Thu, 07 Jul 2022 20:13:47 +0800</pubDate><guid>https://zpyg.github.io/blog/p/cs61a-chapter-1building-abstractions-with-functions/</guid><description>&lt;h2 id="functions">Functions&lt;/h2>
+&lt;h2 id="expressions">Expressions&lt;/h2>
+&lt;h2 id="environments">Environments&lt;/h2></description></item><item><title>CS61A 课程资源</title><link>https://zpyg.github.io/blog/p/cs61a-%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%BA%90/</link><pubDate>Wed, 06 Jul 2022 18:00:54 +0800</pubDate><guid>https://zpyg.github.io/blog/p/cs61a-%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%BA%90/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a class="link" href="https://inst.eecs.berkeley.edu/~cs61a/sp21/" target="_blank" rel="noopener"
 >website&lt;/a>&lt;/p>
@@ -390,6 +502,30 @@ O(n) 空间，一维数组等
 &lt;/div>&lt;blockquote>
 &lt;p>Daily Plan&lt;/p>
 &lt;/blockquote>
+&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> 语文阅读补完 x 7&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 语文文言积累&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 语文快速阅读&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 语文课外阅读&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 语文古诗文复习&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 语文字词复习&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 语文新课文背诵&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 艾青诗选&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 语文作文 + 五匪子经验 + 素材 + 句子&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 数学 2 课&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 数学 + 一数&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 历史 背诵 二单元&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 英语单词复习&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 化学预习&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 英语 1 课&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 政治 3 面&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 物理 2 课&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 物理 ++&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 练字&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> leetcode&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 锻炼 +加大训练量 +增加体考内容 +排球 +篮球&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 声乐&lt;/li>
+&lt;/ul>
 &lt;table>
 &lt;thead>
 &lt;tr>
@@ -412,7 +548,7 @@ O(n) 空间，一维数组等
 &lt;tr>
 &lt;td style="text-align:left">1h10min&lt;/td>
 &lt;td style="text-align:left">&lt;a class="link" href="#morning-exercise" >exercise&lt;/a>&lt;/td>
-&lt;td style="text-align:center">[ ]&lt;/td>
+&lt;td style="text-align:center">[-]&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">20min&lt;/td>
@@ -427,12 +563,12 @@ O(n) 空间，一维数组等
 &lt;tr>
 &lt;td style="text-align:left">1h30min&lt;/td>
 &lt;td style="text-align:left">学理(不把作业看成作业，都是自己主动的学,掌握主动权)&lt;/td>
-&lt;td style="text-align:center">[x]&lt;/td>
+&lt;td style="text-align:center">[ ]&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">1h30min&lt;/td>
 &lt;td style="text-align:left">&lt;a class="link" href="#reciting" >reciting&lt;/a>&lt;/td>
-&lt;td style="text-align:center">[ ]&lt;/td>
+&lt;td style="text-align:center">[-]&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">1h&lt;/td>
@@ -467,7 +603,7 @@ O(n) 空间，一维数组等
 &lt;tr>
 &lt;td style="text-align:left">1h30min&lt;/td>
 &lt;td style="text-align:left">computer science&lt;/td>
-&lt;td style="text-align:center">[x]&lt;/td>
+&lt;td style="text-align:center">[ ]&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">10min&lt;/td>
@@ -482,7 +618,7 @@ O(n) 空间，一维数组等
 &lt;tr>
 &lt;td style="text-align:left">1h&lt;/td>
 &lt;td style="text-align:left">&lt;a class="link" href="#calligraphy" >calligraphy&lt;/a>&lt;/td>
-&lt;td style="text-align:center">[x]&lt;/td>
+&lt;td style="text-align:center">[-]&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">40min&lt;/td>
@@ -492,7 +628,7 @@ O(n) 空间，一维数组等
 &lt;tr>
 &lt;td style="text-align:left">40min&lt;/td>
 &lt;td style="text-align:left">review 理科改错&lt;/td>
-&lt;td style="text-align:center">[ ]&lt;/td>
+&lt;td style="text-align:center">[x]&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">&lt;strong>21:20&lt;/strong>&lt;/td>
@@ -531,7 +667,7 @@ O(n) 空间，一维数组等
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">7.17&lt;/td>
-&lt;td style="text-align:center">&lt;input type = "checkbox" />&lt;/td>
+&lt;td style="text-align:center">欠的越来越多 一天过的飞快 回看啥也美干 应该专注的学。。总结起来似乎更有紧迫感，也是一种反馈 15 号影响太大了 努力克服 学的时候一定要专心学，考虑专门留时间放松，而不是这样三分打鱼 2.9 分晒网 一切都会好起来的&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">7.18&lt;/td>
@@ -598,13 +734,13 @@ O(n) 空间，一维数组等
 &lt;p>中华上下五千年&lt;/p>
 &lt;h2 id="reciting">reciting&lt;/h2>
 &lt;ol>
-&lt;li>&lt;input disabled="" type="checkbox"> 语文背诵九上一篇(尝试使用 DOG 方法)&lt;/li>
+&lt;li>语文背诵九上一篇(尝试使用 DOG 方法)&lt;/li>
 &lt;/ol>
 &lt;h3 id="复习">复习&lt;/h3>
 &lt;ol>
-&lt;li>&lt;input disabled="" type="checkbox"> 语文背诵并默写 半本书 !ipt 春 纪念白求恩 从百草园到三味书屋 假如生活欺骗了你 天上的街市 未选择的路&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> 英语单词 60 + 复习&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> 历史二单元（能记多少记多少）&lt;/li>
+&lt;li>语文背诵并默写 半本书 !ipt 春 纪念白求恩 从百草园到三味书屋 假如生活欺骗了你 天上的街市 未选择的路&lt;/li>
+&lt;li>英语单词 60 + 复习&lt;/li>
+&lt;li>历史二单元（能记多少记多少）&lt;/li>
 &lt;/ol>
 &lt;h2 id="meditation">meditation&lt;/h2>
 &lt;p>&lt;a class="link" href="https://www.bilibili.com/video/BV1Rq4y1F7r4" target="_blank" rel="noopener"
@@ -754,7 +890,6 @@ allowfullscreen="true"
 >一些子的应试经验&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h3 id="homework">homework&lt;/h3>
-&lt;p>@daily 听写 + 复习计划 4 页&lt;/p>
 &lt;!-- {{{ -->
 &lt;details>
 &lt;table>
@@ -863,7 +998,7 @@ allowfullscreen="true"
 &lt;/tr>
 &lt;tr>
 &lt;td>8.6&lt;/td>
-&lt;td>1. 《水浒传》开始听写九年级上册第一单元字词并改错; 2. 阅读《全民阅读时代读书越多越好》&lt;/td>
+&lt;td>1. 《水浒传》开始 2.听写九年级上册第一单元字词并改错; 3. 阅读《全民阅读时代读书越多越好》&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>8.7&lt;/td>
@@ -942,7 +1077,6 @@ allowfullscreen="true"
 >一数几何辅助线&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h3 id="homework-1">homework&lt;/h3>
-&lt;p>@daily 册子一课&lt;/p>
 &lt;!-- {{{ -->
 &lt;details>
 &lt;table>
@@ -1141,7 +1275,6 @@ allowfullscreen="true"
 &lt;p>&lt;a class="link" href="https://zpyg.github.io/blog/p/cs61alecture1-introduction/" target="_blank" rel="noopener"
 >CS61A + English SICP Python&lt;/a>(这也是 English Movie 吧)&lt;/p>
 &lt;h3 id="homework-2">homework&lt;/h3>
-&lt;p>@daily 册子一课&lt;/p>
 &lt;ul>
 &lt;li>学个英文歌，要不就 &lt;em>Empty World&lt;/em>?&lt;/li>
 &lt;li>due:8.01 复习计划&lt;/li>
@@ -1150,7 +1283,6 @@ allowfullscreen="true"
 &lt;/ul>
 &lt;h2 id="morality-and-legality">morality and legality&lt;/h2>
 &lt;h3 id="homework-3">homework&lt;/h3>
-&lt;p>@daily 政治假期作业一面&lt;/p>
 &lt;ul>
 &lt;li>知识点&lt;/li>
 &lt;li>知识点背诵&lt;/li>
@@ -1171,14 +1303,12 @@ allowfullscreen="true"
 >resource&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h3 id="homework-4">homework&lt;/h3>
-&lt;p>@daily 背诵一单元&lt;/p>
 &lt;h2 id="physics">physics&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a class="link" href="https://space.bilibili.com/299200219/video" target="_blank" rel="noopener"
 >https://space.bilibili.com/299200219/video&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h3 id="homework-5">homework&lt;/h3>
-&lt;p>@daily 册子一课&lt;/p>
 &lt;!-- {{{ -->
 &lt;details>
 &lt;table>
@@ -1317,7 +1447,6 @@ allowfullscreen="true"
 &lt;/li>
 &lt;/ul>
 &lt;h3 id="homework-6">homework&lt;/h3>
-&lt;p>@daily&lt;/p>
 &lt;blockquote>
 &lt;p>&lt;a class="link" href="https://www.aliyundrive.com/s/QjXSLWpB7wM" target="_blank" rel="noopener"
 >文档&lt;/a>&lt;/p>

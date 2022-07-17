@@ -269,8 +269,8 @@ O(n) 空间，一维数组等
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> nums[i] &lt;span style="color:#fe8019">=&lt;/span> &lt;span style="color:#d3869b">0&lt;/span>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
-&lt;/div>&lt;h2 id="27-移除元素">27. 移除元素&lt;/h2>
-&lt;h3 id="类似-283">类似 283&lt;/h3>
+&lt;/div>&lt;h3 id="27-移除元素">27. 移除元素&lt;/h3>
+&lt;h4 id="类似-283">类似 283&lt;/h4>
 &lt;div class="highlight">&lt;div style="color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
 &lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
 &lt;pre tabindex="0" style="color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#756d59"> 1
@@ -301,7 +301,7 @@ O(n) 空间，一维数组等
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#fe8019">return&lt;/span> &lt;span style="color:#fabd2f">len&lt;/span>(nums)
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
-&lt;/div>&lt;h3 id="标准双指针法">标准双指针法&lt;/h3>
+&lt;/div>&lt;h4 id="标准双指针法">标准双指针法&lt;/h4>
 &lt;div class="highlight">&lt;div style="color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
 &lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
 &lt;pre tabindex="0" style="color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#756d59"> 1
