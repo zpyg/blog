@@ -5,6 +5,7 @@ categories:
 description: (personal)vacation plan & schedule
 date: 2022-06-28T19:38:24+08:00
 draft: false
+math: true
 ---
 
 _tip_: 恒 静 勤 实 远 诚 & NO 5S(Smart Phone, Short Video, Social Software, mySelf DIY Machine)
@@ -15,42 +16,46 @@ normal gg<S-v>G:s/\[x\]/[ ]/g
 
 > Daily Plan
 
-- [ ] 语文阅读补完 x 7
-- [ ] 语文文言积累
-- [ ] 语文快速阅读
-- [ ] 语文课外阅读
-- [ ] 语文古诗文复习
-- [ ] 语文字词复习
-- [ ] 语文新课文背诵
-- [ ] 艾青诗选
-- [ ] 语文作文 + 五匪子经验 + 素材 + 句子
-- [ ] 数学 2 课
-- [ ] 数学 + 一数
+- [-] 语文 阅读补完 x 7
+- [ ] 语文 文言积累
+- [ ] 语文 快速阅读
+- [ ] 语文 课外阅读
+- [ ] 语文 古诗文复习
+- [ ] 语文 字词复习
+- [ ] 语文 新课文背诵
+- [-] 语文 艾青诗选
+- [ ] 语文 作文 + 五匪子经验 + 素材 + 句子
+- [ ] 练字 笔画
+- [ ] 练字 偏旁
+- [ ] 练字 临帖 2 页
+- [x] 英语单词复习
+- [x] 英语 1 课
 - [ ] 历史 背诵 二单元
-- [ ] 英语单词复习
-- [ ] 化学预习
-- [ ] 英语 1 课
 - [ ] 政治 3 面
-- [ ] 物理 2 课
+
+- [-] 数学 2 课
+- [ ] 数学 + 一数
+- [x] 物理 2 课
 - [ ] 物理 ++
-- [ ] 练字
+- [ ] 化学预习
+
 - [ ] leetcode
-- [ ] 锻炼 +加大训练量 +增加体考内容 +排球 +篮球
-- [ ] 声乐
+- [ ] python
+- [x] 锻炼
+- [x] 声乐
 
 | TIME(estimated <- content) | TASK                                                | STATUS |
 | :------------------------- | :-------------------------------------------------- | :----: |
 | **5:30**                   | **get up**                                          |   \_   |
 | 30min                      | [meditation](meditation)                            |  [x]   |
-| 1h10min                    | [exercise](#morning-exercise)                       |  [-]   |
-| 20min                      | [vocal](#vocal)                                     |  [ ]   |
+| 1h30min                    | [exercise](#exercise)                               |  [x]   |
+| 20min                      | [vocal](#vocal)                                     |  [x]   |
 |                            | _breakfast_                                         |   \_   |
-| 1h30min                    | 学理(不把作业看成作业，都是自己主动的学,掌握主动权) |  [ ]   |
-| 1h30min                    | [reciting](#reciting)                               |  [-]   |
+| 1h30min                    | 学理(不把作业看成作业，都是自己主动的学,掌握主动权) |  [x]   |
+| 1h30min                    | [reciting](#reciting)                               |  [ ]   |
 | 1h                         | 学文                                                |  [x]   |
 |                            | _lunch_                                             |   \_   |
-| 1h30min                    | [reading](#reading)                                 |  [-]   |
-| 30min                      | [exercise](#afternoon-exercise)                     |  [ ]   |
+| 1h30min                    | [reading](#reading)                                 |  [ ]   |
 | 1h                         | 学文（实在不行就强制）                              |  [ ]   |
 | 1h                         | 学理                                                |  [ ]   |
 | 1h30min                    | computer science                                    |  [ ]   |
@@ -58,7 +63,7 @@ normal gg<S-v>G:s/\[x\]/[ ]/g
 |                            | _dinner_                                            |   \_   |
 | 1h                         | [calligraphy](#calligraphy)                         |  [-]   |
 | 40min                      | review 文科复习                                     |  [ ]   |
-| 40min                      | review 理科改错                                     |  [x]   |
+| 40min                      | review 理科改错                                     |  [ ]   |
 | **21:20**                  | **go to bed**                                       |   \_   |
 
 > Monthly Statistics
@@ -72,7 +77,7 @@ _comment_: 每日详细完成度可通过 git 查看
 | 7.15 |                       完成基本内容 浪费大半天; 1. 不能好一天坏一天，要有固定节奏 2. 不要用长视频、连续剧情型视频娱乐，碎片时间可以背单词、背书 3. 少人际交往，说话注意考量，不要想太多                        |
 | 7.16 |                                   补充昨天内容 还是分心看 bili 了，不过总算了断了 不要陷入懊悔的恶性循环 也还有收获 明天应该会更专注了 已经到下半月了，时间很紧 祈祷 向自己                                   |
 | 7.17 | 欠的越来越多 一天过的飞快 回看啥也美干 应该专注的学。。总结起来似乎更有紧迫感，也是一种反馈 15 号影响太大了 努力克服 学的时候一定要专心学，考虑专门留时间放松，而不是这样三分打鱼 2.9 分晒网 一切都会好起来的 |
-| 7.18 |                                                                                          <input type = "checkbox" />                                                                                          |
+| 7.18 |                                        列出来才知道效率有多低 因为不够紧迫，太放松了 还是不专注 应该有一种闲下来学习的观念 至少慢慢的有进展了 一步一步来 找回本我的静                                         |
 | 7.19 |                                                                                          <input type = "checkbox" />                                                                                          |
 | 7.20 |                                                                                          <input type = "checkbox" />                                                                                          |
 | 7.21 |                                                                                          <input type = "checkbox" />                                                                                          |
@@ -113,38 +118,27 @@ https://www.bilibili.com/video/BV1Rq4y1F7r4
 
 ## exercise
 
-TODO: 加入体考训练
+| 周一                                                | 周二         | 周三                           | 周四         | 周五       | 周六         | 周日         |
+| --------------------------------------------------- | ------------ | ------------------------------ | ------------ | ---------- | ------------ | ------------ |
+| $400m \times 3$ <br/>间歇 4min                      | 徒手力量训练 | $400m \times 3$ <br/>间歇 4min | 徒手力量训练 | 轻松跑 3km | 休息         | 1km 模拟测试 |
+| [短跑](https://www.bilibili.com/video/BV1b541187DT) | 俯卧撑       | 立定跳远                       | 俯卧撑       | 随机理论   | 球类技巧训练 | 引体向上     |
 
-TODO: 每天交替做,周计划
+- [跑步拉伸](https://www.bilibili.com/video/BV1hE411V77S)
 
-### morning exercise
-
-- 跑步
-
-  1. [拉伸](https://www.bilibili.com/video/BV1hE411V77S)
-
-  2. [跑步](https://www.bilibili.com/audio/au2436495)
-
-### afternoon exercise
-
-- 爬楼梯 20min
-
-- [俯卧撑](https://www.bilibili.com/video/BV14K4y1W7iQ)
-
-- [脊柱活动](https://www.bilibili.com/video/BV17Y4y1E7oX)
-
-- [颈部活动](https://www.bilibili.com/video/BV1Wr4y1a7me)
+- [徒手力量训练](https://www.bilibili.com/video/BV1K54y1d76C)
 
 ## vocal
 
-https://space.bilibili.com/540564177/channel/seriesdetail?sid=217891
+- [发声](https://www.bilibili.com/video/BV1vU4y1h7nh)
 
-https://www.bilibili.com/video/BV1vU4y1h7nh
+- [演唱](https://space.bilibili.com/540564177/channel/seriesdetail?sid=217891)
 
 ## computer science
 
-- CS61A
 - [leetcode](https://www.bilibili.com/video/BV1xa411A76q)
+- python 重要标准库
+
+- CS61A
 - algorithms 算法图解
 
 - [编程通识](https://space.bilibili.com/504715181/channel/collectiondetail?sid=284254)
@@ -153,8 +147,6 @@ https://www.bilibili.com/video/BV1vU4y1h7nh
 - qt
 - c++
 - rust
-- python
-  - tkinter
 - web front-end
   - html
   - css
@@ -163,6 +155,7 @@ https://www.bilibili.com/video/BV1vU4y1h7nh
 - DIP
 - opencv
 - matplotlib
+- 基础科学 信息论 数学 物理等基础
 
 ## calligraphy
 
