@@ -503,28 +503,81 @@ O(n) 空间，一维数组等
 &lt;p>Daily Plan&lt;/p>
 &lt;/blockquote>
 &lt;ul>
-&lt;li>&lt;input disabled="" type="checkbox"> 语文阅读补完 x 7&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> 语文文言积累&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> 语文快速阅读&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> 语文课外阅读&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> 语文古诗文复习&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> 语文字词复习&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> 语文新课文背诵&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> 艾青诗选&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> 语文作文 + 五匪子经验 + 素材 + 句子&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> 数学 2 课&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> 数学 + 一数&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> 历史 背诵 二单元&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> 英语单词复习&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> 化学预习&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> 英语 1 课&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> 政治 3 面&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> 物理 2 课&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> 物理 ++&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> 练字&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> leetcode&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> 锻炼 +加大训练量 +增加体考内容 +排球 +篮球&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> 声乐&lt;/li>
+&lt;li>
+&lt;p>[-] 语文 阅读补完 x 7&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;input disabled="" type="checkbox"> 语文 文言积累&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;input disabled="" type="checkbox"> 语文 快速阅读&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;input disabled="" type="checkbox"> 语文 课外阅读&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;input disabled="" type="checkbox"> 语文 古诗文复习&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;input disabled="" type="checkbox"> 语文 字词复习&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;input disabled="" type="checkbox"> 语文 新课文背诵&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[-] 语文 艾青诗选&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;input disabled="" type="checkbox"> 语文 作文 + 五匪子经验 + 素材 + 句子&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;input disabled="" type="checkbox"> 练字 笔画&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;input disabled="" type="checkbox"> 练字 偏旁&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;input disabled="" type="checkbox"> 练字 临帖 2 页&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;input checked="" disabled="" type="checkbox"> 英语单词复习&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;input checked="" disabled="" type="checkbox"> 英语 1 课&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;input disabled="" type="checkbox"> 历史 背诵 二单元&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;input disabled="" type="checkbox"> 政治 3 面&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[-] 数学 2 课&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;input disabled="" type="checkbox"> 数学 + 一数&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;input checked="" disabled="" type="checkbox"> 物理 2 课&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;input disabled="" type="checkbox"> 物理 ++&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;input disabled="" type="checkbox"> 化学预习&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;input disabled="" type="checkbox"> leetcode&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;input disabled="" type="checkbox"> python&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;input checked="" disabled="" type="checkbox"> 锻炼&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;input checked="" disabled="" type="checkbox"> 声乐&lt;/p>
+&lt;/li>
 &lt;/ul>
 &lt;table>
 &lt;thead>
@@ -546,14 +599,14 @@ O(n) 空间，一维数组等
 &lt;td style="text-align:center">[x]&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">1h10min&lt;/td>
-&lt;td style="text-align:left">&lt;a class="link" href="#morning-exercise" >exercise&lt;/a>&lt;/td>
-&lt;td style="text-align:center">[-]&lt;/td>
+&lt;td style="text-align:left">1h30min&lt;/td>
+&lt;td style="text-align:left">&lt;a class="link" href="#exercise" >exercise&lt;/a>&lt;/td>
+&lt;td style="text-align:center">[x]&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">20min&lt;/td>
 &lt;td style="text-align:left">&lt;a class="link" href="#vocal" >vocal&lt;/a>&lt;/td>
-&lt;td style="text-align:center">[ ]&lt;/td>
+&lt;td style="text-align:center">[x]&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">&lt;/td>
@@ -563,12 +616,12 @@ O(n) 空间，一维数组等
 &lt;tr>
 &lt;td style="text-align:left">1h30min&lt;/td>
 &lt;td style="text-align:left">学理(不把作业看成作业，都是自己主动的学,掌握主动权)&lt;/td>
-&lt;td style="text-align:center">[ ]&lt;/td>
+&lt;td style="text-align:center">[x]&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">1h30min&lt;/td>
 &lt;td style="text-align:left">&lt;a class="link" href="#reciting" >reciting&lt;/a>&lt;/td>
-&lt;td style="text-align:center">[-]&lt;/td>
+&lt;td style="text-align:center">[ ]&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">1h&lt;/td>
@@ -583,11 +636,6 @@ O(n) 空间，一维数组等
 &lt;tr>
 &lt;td style="text-align:left">1h30min&lt;/td>
 &lt;td style="text-align:left">&lt;a class="link" href="#reading" >reading&lt;/a>&lt;/td>
-&lt;td style="text-align:center">[-]&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align:left">30min&lt;/td>
-&lt;td style="text-align:left">&lt;a class="link" href="#afternoon-exercise" >exercise&lt;/a>&lt;/td>
 &lt;td style="text-align:center">[ ]&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -628,7 +676,7 @@ O(n) 空间，一维数组等
 &lt;tr>
 &lt;td style="text-align:left">40min&lt;/td>
 &lt;td style="text-align:left">review 理科改错&lt;/td>
-&lt;td style="text-align:center">[x]&lt;/td>
+&lt;td style="text-align:center">[ ]&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">&lt;strong>21:20&lt;/strong>&lt;/td>
@@ -671,7 +719,7 @@ O(n) 空间，一维数组等
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">7.18&lt;/td>
-&lt;td style="text-align:center">&lt;input type = "checkbox" />&lt;/td>
+&lt;td style="text-align:center">列出来才知道效率有多低 因为不够紧迫，太放松了 还是不专注 应该有一种闲下来学习的观念 至少慢慢的有进展了 一步一步来 找回本我的静&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">7.19&lt;/td>
@@ -746,55 +794,72 @@ O(n) 空间，一维数组等
 &lt;p>&lt;a class="link" href="https://www.bilibili.com/video/BV1Rq4y1F7r4" target="_blank" rel="noopener"
 >https://www.bilibili.com/video/BV1Rq4y1F7r4&lt;/a>&lt;/p>
 &lt;h2 id="exercise">exercise&lt;/h2>
-&lt;p>TODO: 加入体考训练&lt;/p>
-&lt;p>TODO: 每天交替做,周计划&lt;/p>
-&lt;h3 id="morning-exercise">morning exercise&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>周一&lt;/th>
+&lt;th>周二&lt;/th>
+&lt;th>周三&lt;/th>
+&lt;th>周四&lt;/th>
+&lt;th>周五&lt;/th>
+&lt;th>周六&lt;/th>
+&lt;th>周日&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>$400m \times 3$ &lt;br/>间歇 4min&lt;/td>
+&lt;td>徒手力量训练&lt;/td>
+&lt;td>$400m \times 3$ &lt;br/>间歇 4min&lt;/td>
+&lt;td>徒手力量训练&lt;/td>
+&lt;td>轻松跑 3km&lt;/td>
+&lt;td>休息&lt;/td>
+&lt;td>1km 模拟测试&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://www.bilibili.com/video/BV1b541187DT" target="_blank" rel="noopener"
+>短跑&lt;/a>&lt;/td>
+&lt;td>俯卧撑&lt;/td>
+&lt;td>立定跳远&lt;/td>
+&lt;td>俯卧撑&lt;/td>
+&lt;td>随机理论&lt;/td>
+&lt;td>球类技巧训练&lt;/td>
+&lt;td>引体向上&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
 &lt;ul>
-&lt;li>
-&lt;p>跑步&lt;/p>
-&lt;ol>
 &lt;li>
 &lt;p>&lt;a class="link" href="https://www.bilibili.com/video/BV1hE411V77S" target="_blank" rel="noopener"
->拉伸&lt;/a>&lt;/p>
+>跑步拉伸&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a class="link" href="https://www.bilibili.com/audio/au2436495" target="_blank" rel="noopener"
->跑步&lt;/a>&lt;/p>
-&lt;/li>
-&lt;/ol>
-&lt;/li>
-&lt;/ul>
-&lt;h3 id="afternoon-exercise">afternoon exercise&lt;/h3>
-&lt;ul>
-&lt;li>
-&lt;p>爬楼梯 20min&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a class="link" href="https://www.bilibili.com/video/BV14K4y1W7iQ" target="_blank" rel="noopener"
->俯卧撑&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a class="link" href="https://www.bilibili.com/video/BV17Y4y1E7oX" target="_blank" rel="noopener"
->脊柱活动&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a class="link" href="https://www.bilibili.com/video/BV1Wr4y1a7me" target="_blank" rel="noopener"
->颈部活动&lt;/a>&lt;/p>
+&lt;p>&lt;a class="link" href="https://www.bilibili.com/video/BV1K54y1d76C" target="_blank" rel="noopener"
+>徒手力量训练&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="vocal">vocal&lt;/h2>
-&lt;p>&lt;a class="link" href="https://space.bilibili.com/540564177/channel/seriesdetail?sid=217891" target="_blank" rel="noopener"
->https://space.bilibili.com/540564177/channel/seriesdetail?sid=217891&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>
 &lt;p>&lt;a class="link" href="https://www.bilibili.com/video/BV1vU4y1h7nh" target="_blank" rel="noopener"
->https://www.bilibili.com/video/BV1vU4y1h7nh&lt;/a>&lt;/p>
+>发声&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a class="link" href="https://space.bilibili.com/540564177/channel/seriesdetail?sid=217891" target="_blank" rel="noopener"
+>演唱&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
 &lt;h2 id="computer-science">computer science&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>CS61A&lt;/p>
-&lt;/li>
-&lt;li>
 &lt;p>&lt;a class="link" href="https://www.bilibili.com/video/BV1xa411A76q" target="_blank" rel="noopener"
 >leetcode&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>python 重要标准库&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>CS61A&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>algorithms 算法图解&lt;/p>
@@ -818,12 +883,6 @@ O(n) 空间，一维数组等
 &lt;p>rust&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>python&lt;/p>
-&lt;ul>
-&lt;li>tkinter&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
 &lt;p>web front-end&lt;/p>
 &lt;ul>
 &lt;li>html&lt;/li>
@@ -840,6 +899,9 @@ O(n) 空间，一维数组等
 &lt;/li>
 &lt;li>
 &lt;p>matplotlib&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>基础科学 信息论 数学 物理等基础&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="calligraphy">calligraphy&lt;/h2>
