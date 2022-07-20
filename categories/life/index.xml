@@ -1,202 +1,165 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Life on pu's blog</title><link>https://zpyg.github.io/blog/categories/life/</link><description>Recent content in Life on pu's blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Tue, 28 Jun 2022 19:38:24 +0800</lastBuildDate><atom:link href="https://zpyg.github.io/blog/categories/life/index.xml" rel="self" type="application/rss+xml"/><item><title>Vacation Plan</title><link>https://zpyg.github.io/blog/p/vacation-plan/</link><pubDate>Tue, 28 Jun 2022 19:38:24 +0800</pubDate><guid>https://zpyg.github.io/blog/p/vacation-plan/</guid><description>&lt;p>&lt;em>tip&lt;/em>: 恒 静 勤 实 远 诚 &amp;amp; NO 5S(Smart Phone, Short Video, Social Software, mySelf DIY Machine)&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Life on pu's blog</title><link>https://zpyg.github.io/blog/categories/life/</link><description>Recent content in Life on pu's blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Tue, 28 Jun 2022 19:38:24 +0800</lastBuildDate><atom:link href="https://zpyg.github.io/blog/categories/life/index.xml" rel="self" type="application/rss+xml"/><item><title>Vacation Plan</title><link>https://zpyg.github.io/blog/p/vacation-plan/</link><pubDate>Tue, 28 Jun 2022 19:38:24 +0800</pubDate><guid>https://zpyg.github.io/blog/p/vacation-plan/</guid><description>&lt;blockquote>
+&lt;p>我的故事讲到哪了？&lt;/p>
+&lt;/blockquote>
+&lt;center>静&lt;/center>
+&lt;h2 id="todo-list">TODO list&lt;/h2>
 &lt;div class="highlight">&lt;div style="color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
 &lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
 &lt;pre tabindex="0" style="color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#756d59">1
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#756d59">2
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#756d59">3
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#756d59">4
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#756d59">5
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#756d59">6
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#756d59">7
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#756d59">8
 &lt;/span>&lt;/code>&lt;/pre>&lt;/td>
 &lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-&lt;pre tabindex="0" style="color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-vim" data-lang="vim">&lt;span style="display:flex;">&lt;span>normal gg&amp;lt;S-v&amp;gt;G:s&lt;span style="color:#b8bb26">/\[x\]/&lt;/span>[ ]/g
+&lt;pre tabindex="0" style="color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-fallback" data-lang="fallback">&lt;span style="display:flex;">&lt;span>task.default = @daily
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>专注地完成 3 项 就放松地休息 20min
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>@first {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> 艾青诗选
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> 政治填空
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
-&lt;/div>&lt;blockquote>
-&lt;p>Daily Plan&lt;/p>
+&lt;/div>&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>5:30&lt;/strong> 起床&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;input disabled="" type="checkbox"> &lt;a class="link" href="https://www.bilibili.com/video/BV1e5411o7a4" target="_blank" rel="noopener"
+>meditation&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;input disabled="" type="checkbox"> &lt;a class="link" href="#exercise" >exercise&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;input disabled="" type="checkbox"> &lt;a class="link" href="https://www.bilibili.com/video/BV1Hq4y1R7yC" target="_blank" rel="noopener"
+>vocal&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;input disabled="" type="checkbox"> @todo 计算机科学::python built-in modules&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;input disabled="" type="checkbox"> @todo 计算机科学::algorithms&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;input disabled="" type="checkbox"> 计算机科学 leetcode 1&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>语文&lt;/p>
 &lt;/blockquote>
 &lt;ul>
 &lt;li>
-&lt;p>[-] 语文 阅读补完 x 7&lt;/p>
+&lt;p>&lt;input disabled="" type="checkbox"> @todo 艾青诗选&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;input disabled="" type="checkbox"> 语文 文言积累&lt;/p>
+&lt;p>&lt;input disabled="" type="checkbox"> 背诵 九上 2&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;input disabled="" type="checkbox"> 语文 快速阅读&lt;/p>
+&lt;p>&lt;input disabled="" type="checkbox"> 背诵 七八 2 !ipt 春 纪念白求恩 从百草园到三味书屋 假如生活欺骗了你 天上的街市 未选择的路 白杨礼赞&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;input disabled="" type="checkbox"> 语文 课外阅读&lt;/p>
+&lt;p>&lt;input disabled="" type="checkbox"> 册 1&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;input disabled="" type="checkbox"> 语文 古诗文复习&lt;/p>
+&lt;p>&lt;input disabled="" type="checkbox"> 听写 1&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;input disabled="" type="checkbox"> 语文 字词复习&lt;/p>
+&lt;p>&lt;input disabled="" type="checkbox"> 万维 1&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;input disabled="" type="checkbox"> 语文 新课文背诵&lt;/p>
+&lt;p>&lt;input disabled="" type="checkbox"> 说明性文本速读 1 篇&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>[-] 语文 艾青诗选&lt;/p>
+&lt;p>&lt;input disabled="" type="checkbox"> 积累 文言 10&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;input disabled="" type="checkbox"> 语文 作文 + 五匪子经验 + 素材 + 句子&lt;/p>
+&lt;p>&lt;input disabled="" type="checkbox"> 作文句子 1&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;input disabled="" type="checkbox"> 练字 笔画&lt;/p>
+&lt;p>&lt;input disabled="" type="checkbox"> 议论文素材 1&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;input disabled="" type="checkbox"> 练字 偏旁&lt;/p>
+&lt;p>&lt;input disabled="" type="checkbox"> 练字 {偏旁、笔画}&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;input disabled="" type="checkbox"> 练字 临帖 2 页&lt;/p>
+&lt;p>&lt;input disabled="" type="checkbox"> 练字 字帖 楷书 1&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;input checked="" disabled="" type="checkbox"> 英语单词复习&lt;/p>
+&lt;p>&lt;input disabled="" type="checkbox"> after:课内名著 读书课外&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;input checked="" disabled="" type="checkbox"> 英语 1 课&lt;/p>
+&lt;p>&lt;input disabled="" type="checkbox"> 复习 七八九 ‘3&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;input disabled="" type="checkbox"> 历史 背诵 二单元&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;input disabled="" type="checkbox"> 政治 3 面&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>[-] 数学 2 课&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;input disabled="" type="checkbox"> 数学 + 一数&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;input checked="" disabled="" type="checkbox"> 物理 2 课&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;input disabled="" type="checkbox"> 物理 ++&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;input disabled="" type="checkbox"> 化学预习&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;input disabled="" type="checkbox"> leetcode&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;input disabled="" type="checkbox"> python&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;input checked="" disabled="" type="checkbox"> 锻炼&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;input checked="" disabled="" type="checkbox"> 声乐&lt;/p>
+&lt;p>&lt;input disabled="" type="checkbox"> 复习 听写 两单元&lt;/p>
 &lt;/li>
 &lt;/ul>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th style="text-align:left">TIME(estimated &amp;lt;- content)&lt;/th>
-&lt;th style="text-align:left">TASK&lt;/th>
-&lt;th style="text-align:center">STATUS&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td style="text-align:left">&lt;strong>5:30&lt;/strong>&lt;/td>
-&lt;td style="text-align:left">&lt;strong>get up&lt;/strong>&lt;/td>
-&lt;td style="text-align:center">_&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align:left">30min&lt;/td>
-&lt;td style="text-align:left">&lt;a class="link" href="meditation" >meditation&lt;/a>&lt;/td>
-&lt;td style="text-align:center">[x]&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align:left">1h30min&lt;/td>
-&lt;td style="text-align:left">&lt;a class="link" href="#exercise" >exercise&lt;/a>&lt;/td>
-&lt;td style="text-align:center">[x]&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align:left">20min&lt;/td>
-&lt;td style="text-align:left">&lt;a class="link" href="#vocal" >vocal&lt;/a>&lt;/td>
-&lt;td style="text-align:center">[x]&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align:left">&lt;/td>
-&lt;td style="text-align:left">&lt;em>breakfast&lt;/em>&lt;/td>
-&lt;td style="text-align:center">_&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align:left">1h30min&lt;/td>
-&lt;td style="text-align:left">学理(不把作业看成作业，都是自己主动的学,掌握主动权)&lt;/td>
-&lt;td style="text-align:center">[x]&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align:left">1h30min&lt;/td>
-&lt;td style="text-align:left">&lt;a class="link" href="#reciting" >reciting&lt;/a>&lt;/td>
-&lt;td style="text-align:center">[ ]&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align:left">1h&lt;/td>
-&lt;td style="text-align:left">学文&lt;/td>
-&lt;td style="text-align:center">[x]&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align:left">&lt;/td>
-&lt;td style="text-align:left">&lt;em>lunch&lt;/em>&lt;/td>
-&lt;td style="text-align:center">_&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align:left">1h30min&lt;/td>
-&lt;td style="text-align:left">&lt;a class="link" href="#reading" >reading&lt;/a>&lt;/td>
-&lt;td style="text-align:center">[ ]&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align:left">1h&lt;/td>
-&lt;td style="text-align:left">学文（实在不行就强制）&lt;/td>
-&lt;td style="text-align:center">[ ]&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align:left">1h&lt;/td>
-&lt;td style="text-align:left">学理&lt;/td>
-&lt;td style="text-align:center">[ ]&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align:left">1h30min&lt;/td>
-&lt;td style="text-align:left">computer science&lt;/td>
-&lt;td style="text-align:center">[ ]&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align:left">10min&lt;/td>
-&lt;td style="text-align:left">&lt;em>处理消息仅限于此时&lt;/em>&lt;/td>
-&lt;td style="text-align:center">_&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align:left">&lt;/td>
-&lt;td style="text-align:left">&lt;em>dinner&lt;/em>&lt;/td>
-&lt;td style="text-align:center">_&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align:left">1h&lt;/td>
-&lt;td style="text-align:left">&lt;a class="link" href="#calligraphy" >calligraphy&lt;/a>&lt;/td>
-&lt;td style="text-align:center">[-]&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align:left">40min&lt;/td>
-&lt;td style="text-align:left">review 文科复习&lt;/td>
-&lt;td style="text-align:center">[ ]&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align:left">40min&lt;/td>
-&lt;td style="text-align:left">review 理科改错&lt;/td>
-&lt;td style="text-align:center">[ ]&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align:left">&lt;strong>21:20&lt;/strong>&lt;/td>
-&lt;td style="text-align:left">&lt;strong>go to bed&lt;/strong>&lt;/td>
-&lt;td style="text-align:center">_&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
 &lt;blockquote>
-&lt;p>Monthly Statistics&lt;/p>
+&lt;p>英语&lt;/p>
 &lt;/blockquote>
-&lt;p>&lt;em>comment&lt;/em>: 每日详细完成度可通过 git 查看&lt;/p>
+&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> 册 4 页&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 临贴 1&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> shadowing&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 背单词&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> =undef 一英 语法 1&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> @todo 音标&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>政治&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> @todo 填空写完&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> after:填空写完 背诵 1 课&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>历史&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> 复习 1 单元&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>数学&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> 册 1 课&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;a class="link" href="#math" >一数 两课&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>物理&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> 册 1 课&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> =undef 马丁&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>化学&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;input disabled="" type="checkbox"> 元素周期表 1 遍&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;input disabled="" type="checkbox"> 物质表 1 遍&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;input disabled="" type="checkbox"> =undef 课程::元素 （小莫|超人)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;input disabled="" type="checkbox"> after:课程 @todo 知识点&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>21:30&lt;/strong> &lt;em>最晚:22:00&lt;/em> 睡觉&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="monthly-statistics">Monthly Statistics&lt;/h2>
+&lt;p>每日详细完成度可通过 git 查看&lt;/p>
 &lt;table>
 &lt;thead>
 &lt;tr>
@@ -231,11 +194,11 @@
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">7.19&lt;/td>
-&lt;td style="text-align:center">&lt;input type = "checkbox" />&lt;/td>
+&lt;td style="text-align:center">不要稍微一好就 欠的帐基本还完了 节奏开始正常了 不要飘啊 静 ； 设置个 ddl，有助于 生产力，针对不够紧迫&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">7.20&lt;/td>
-&lt;td style="text-align:center">&lt;input type = "checkbox" />&lt;/td>
+&lt;td style="text-align:center">没太飘 继续保持节奏 不要再乱了； 回看前 20 多天 其实啥也没干 每天像做了很多但其实效率特别低 学要专心学 放松专门放松 一直学也不太现实 这样效果回更好；找回“我”找到“静” meditation 是有用的；时刻表没什么 倒是里面的 STATUS 带来的反馈比较直观 所以改为 TODO list 更能清楚自己的球样&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">7.21&lt;/td>
@@ -283,24 +246,6 @@
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
-&lt;h2 id="reading">reading&lt;/h2>
-&lt;p>艾青诗选 1/4&lt;/p>
-&lt;p>万维现代文&lt;/p>
-&lt;p>文言文 +词语积累 || 说明/议论文 素材积累&lt;/p>
-&lt;p>中华上下五千年&lt;/p>
-&lt;h2 id="reciting">reciting&lt;/h2>
-&lt;ol>
-&lt;li>语文背诵九上一篇(尝试使用 DOG 方法)&lt;/li>
-&lt;/ol>
-&lt;h3 id="复习">复习&lt;/h3>
-&lt;ol>
-&lt;li>语文背诵并默写 半本书 !ipt 春 纪念白求恩 从百草园到三味书屋 假如生活欺骗了你 天上的街市 未选择的路&lt;/li>
-&lt;li>英语单词 60 + 复习&lt;/li>
-&lt;li>历史二单元（能记多少记多少）&lt;/li>
-&lt;/ol>
-&lt;h2 id="meditation">meditation&lt;/h2>
-&lt;p>&lt;a class="link" href="https://www.bilibili.com/video/BV1Rq4y1F7r4" target="_blank" rel="noopener"
->https://www.bilibili.com/video/BV1Rq4y1F7r4&lt;/a>&lt;/p>
 &lt;h2 id="exercise">exercise&lt;/h2>
 &lt;table>
 &lt;thead>
@@ -316,23 +261,22 @@
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td>$400m \times 3$ &lt;br/>间歇 4min&lt;/td>
-&lt;td>徒手力量训练&lt;/td>
-&lt;td>$400m \times 3$ &lt;br/>间歇 4min&lt;/td>
-&lt;td>徒手力量训练&lt;/td>
+&lt;td>法特莱克快慢跑 15min&lt;/td>
+&lt;td>法特莱克走跑 30min&lt;/td>
+&lt;td>法特莱克快慢跑 15min&lt;/td>
+&lt;td>法特莱克走跑 30min&lt;/td>
 &lt;td>轻松跑 3km&lt;/td>
-&lt;td>休息&lt;/td>
+&lt;td>球类&lt;/td>
 &lt;td>1km 模拟测试&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;a class="link" href="https://www.bilibili.com/video/BV1b541187DT" target="_blank" rel="noopener"
->短跑&lt;/a>&lt;/td>
 &lt;td>俯卧撑&lt;/td>
-&lt;td>立定跳远&lt;/td>
+&lt;td>徒手力量训练&lt;/td>
 &lt;td>俯卧撑&lt;/td>
-&lt;td>随机理论&lt;/td>
-&lt;td>球类技巧训练&lt;/td>
-&lt;td>引体向上&lt;/td>
+&lt;td>徒手力量训练&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>俯卧撑&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
@@ -342,19 +286,16 @@
 >跑步拉伸&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
+&lt;p>&lt;a class="link" href="https://www.bilibili.com/video/BV1WM4y1L7Rj" target="_blank" rel="noopener"
+>法特莱克快慢跑&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a class="link" href="https://www.bilibili.com/audio/au2448043" target="_blank" rel="noopener"
+>法特莱克走跑&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
 &lt;p>&lt;a class="link" href="https://www.bilibili.com/video/BV1K54y1d76C" target="_blank" rel="noopener"
 >徒手力量训练&lt;/a>&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="vocal">vocal&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;p>&lt;a class="link" href="https://www.bilibili.com/video/BV1vU4y1h7nh" target="_blank" rel="noopener"
->发声&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a class="link" href="https://space.bilibili.com/540564177/channel/seriesdetail?sid=217891" target="_blank" rel="noopener"
->演唱&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="computer-science">computer science&lt;/h2>
@@ -622,7 +563,7 @@ allowfullscreen="true"
 &lt;/table>
 &lt;/details>
 &lt;!- }}} ->
-&lt;h3 id="reading-1">reading&lt;/h3>
+&lt;h3 id="reading">reading&lt;/h3>
 &lt;ul>
 &lt;li>&lt;strong>艾青诗选&lt;/strong>&lt;/li>
 &lt;li>&lt;strong>水浒传&lt;/strong>&lt;/li>
@@ -634,17 +575,15 @@ allowfullscreen="true"
 &lt;li>中华上下五千年&lt;/li>
 &lt;/ul>
 &lt;h2 id="math">math&lt;/h2>
-&lt;p>&lt;em>暑假先看学过的&lt;/em>
-多做题&lt;/p>
 &lt;ul>
 &lt;li>&lt;a class="link" href="https://www.bilibili.com/video/BV1qE411H7Uv" target="_blank" rel="noopener"
->一数复习&lt;/a>&lt;/li>
+>复习&lt;/a>&lt;/li>
 &lt;li>&lt;a class="link" href="https://www.bilibili.com/video/BV1t7411y7qh" target="_blank" rel="noopener"
->一数每日一题&lt;/a>&lt;/li>
+>每日一题&lt;/a>&lt;/li>
 &lt;li>&lt;a class="link" href="https://space.bilibili.com/14229967/channel/collectiondetail?sid=239001" target="_blank" rel="noopener"
->一数中考重难点&lt;/a>&lt;/li>
+>中考重难点&lt;/a>&lt;/li>
 &lt;li>&lt;a class="link" href="https://space.bilibili.com/14229967/channel/collectiondetail?sid=322454" target="_blank" rel="noopener"
->一数几何辅助线&lt;/a>&lt;/li>
+>几何辅助线&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h3 id="homework-1">homework&lt;/h3>
 &lt;!-- {{{ -->
