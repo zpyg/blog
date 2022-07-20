@@ -8,130 +8,131 @@ draft: false
 math: true
 ---
 
-_tip_: 恒 静 勤 实 远 诚 & NO 5S(Smart Phone, Short Video, Social Software, mySelf DIY Machine)
+> 我的故事讲到哪了？
 
-```vim
-normal gg<S-v>G:s/\[x\]/[ ]/g
+<center>静</center>
+
+## TODO list
+
+```
+task.default = @daily
+
+专注地完成 3 项 就放松地休息 20min
+
+@first {
+  艾青诗选
+  政治填空
+}
 ```
 
-> Daily Plan
+- **5:30** 起床
 
-- [x] ddl 语文 阅读补完 x 7
-- [ ] 语文 文言积累
-- [ ] 语文 快速阅读
-- [ ] 语文 课外阅读
-- [ ] 语文 古诗文复习
-- [ ] 语文 字词复习
-- [ ] ddl 语文 新课文背诵
-- [-] ddl 语文 艾青诗选
-- [ ] 语文 作文 + 五匪子经验 + 素材 + 句子
-- [ ] 练字 笔画
-- [ ] 练字 偏旁
-- [x] 练字 临帖 2 页
-- [x] 英语单词复习
-- [ ] 英语 1 课
-- [ ] 历史 背诵 二单元
-- [-] 政治 3 面
+- [ ] [meditation](https://www.bilibili.com/video/BV1e5411o7a4)
+- [ ] [exercise](#exercise)
+- [ ] [vocal](https://www.bilibili.com/video/BV1Hq4y1R7yC)
+- [ ] @todo 计算机科学::python built-in modules
+- [ ] @todo 计算机科学::algorithms
+- [ ] 计算机科学 leetcode 1
 
-- [-] ddl 数学 2 课
-- [ ] 数学 + 一数
-- [ ] 物理 2 课
-- [ ] 物理 ++
-- [ ] 化学预习
+> 语文
 
-- [x] leetcode
-- [x] python
-- [x] 锻炼
-- [x] 声乐
+- [ ] @todo 艾青诗选
+- [ ] 背诵 九上 2
+- [ ] 背诵 七八 2 !ipt 春 纪念白求恩 从百草园到三味书屋 假如生活欺骗了你 天上的街市 未选择的路 白杨礼赞
 
-| TIME(estimated <- content) | TASK                                                | STATUS |
-| :------------------------- | :-------------------------------------------------- | :----: |
-| **5:30**                   | **get up**                                          |   \_   |
-| 30min                      | [meditation](meditation)                            |  [x]   |
-| 1h30min                    | [exercise](#exercise)                               |  [x]   |
-| 20min                      | [vocal](#vocal)                                     |  [x]   |
-|                            | _breakfast_                                         |   \_   |
-| 1h30min                    | 学理(不把作业看成作业，都是自己主动的学,掌握主动权) |  [x]   |
-| 1h30min                    | [reciting](#reciting)                               |  [ ]   |
-| 1h                         | 学文                                                |  [x]   |
-|                            | _lunch_                                             |   \_   |
-| 1h30min                    | [reading](#reading)                                 |  [ ]   |
-| 1h                         | 学文（实在不行就强制）                              |  [ ]   |
-| 1h                         | 学理                                                |  [ ]   |
-| 1h30min                    | computer science                                    |  [ ]   |
-| 10min                      | _处理消息仅限于此时_                                |   \_   |
-|                            | _dinner_                                            |   \_   |
-| 1h                         | [calligraphy](#calligraphy)                         |  [-]   |
-| 40min                      | review 文科复习                                     |  [ ]   |
-| 40min                      | review 理科改错                                     |  [ ]   |
-| **21:20**                  | **go to bed**                                       |   \_   |
+- [ ] 册 1
+- [ ] 听写 1
+- [ ] 万维 1
+- [ ] 说明性文本速读 1 篇
+- [ ] 积累 文言 10
+- [ ] 作文句子 1
+- [ ] 议论文素材 1
 
-> Monthly Statistics
+- [ ] 练字 {偏旁、笔画}
+- [ ] 练字 字帖 楷书 1
 
-_comment_: 每日详细完成度可通过 git 查看
+- [ ] after:课内名著 读书课外
 
-| Day  |                                                                                                    STATUS                                                                                                     |
-| :--: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 7.13 |                                                                                                   执行失败                                                                                                    |
-| 7.14 |                                                            大部分完成 浪费大概 2h 时间<br/>得考虑每日选择部分内容 目前时间不太够<br/>做完非常重实                                                             |
-| 7.15 |                       完成基本内容 浪费大半天; 1. 不能好一天坏一天，要有固定节奏 2. 不要用长视频、连续剧情型视频娱乐，碎片时间可以背单词、背书 3. 少人际交往，说话注意考量，不要想太多                        |
-| 7.16 |                                   补充昨天内容 还是分心看 bili 了，不过总算了断了 不要陷入懊悔的恶性循环 也还有收获 明天应该会更专注了 已经到下半月了，时间很紧 祈祷 向自己                                   |
-| 7.17 | 欠的越来越多 一天过的飞快 回看啥也美干 应该专注的学。。总结起来似乎更有紧迫感，也是一种反馈 15 号影响太大了 努力克服 学的时候一定要专心学，考虑专门留时间放松，而不是这样三分打鱼 2.9 分晒网 一切都会好起来的 |
-| 7.18 |                                        列出来才知道效率有多低 因为不够紧迫，太放松了 还是不专注 应该有一种闲下来学习的观念 至少慢慢的有进展了 一步一步来 找回本我的静                                         |
-| 7.19 |                                                     不要稍微一好就 欠的帐基本还完了 节奏开始正常了 不要飘啊 静 ； 设置个 ddl，有助于 生产力，针对不够紧迫                                                     |
-| 7.20 |                                                                                          <input type = "checkbox" />                                                                                          |
-| 7.21 |                                                                                          <input type = "checkbox" />                                                                                          |
-| 7.22 |                                                                                          <input type = "checkbox" />                                                                                          |
-| 7.23 |                                                                                          <input type = "checkbox" />                                                                                          |
-| 7.24 |                                                                                          <input type = "checkbox" />                                                                                          |
-| 7.25 |                                                                                          <input type = "checkbox" />                                                                                          |
-| 7.26 |                                                                                          <input type = "checkbox" />                                                                                          |
-| 7.27 |                                                                                          <input type = "checkbox" />                                                                                          |
-| 7.28 |                                                                                          <input type = "checkbox" />                                                                                          |
-| 7.29 |                                                                                          <input type = "checkbox" />                                                                                          |
-| 7.30 |                                                                                          <input type = "checkbox" />                                                                                          |
-| 7.31 |                                                                                          <input type = "checkbox" />                                                                                          |
+- [ ] 复习 七八九 ‘3
+- [ ] 复习 听写 两单元
 
-## reading
+> 英语
 
-艾青诗选 1/4
+- [ ] 册 4 页
+- [ ] 临贴 1
+- [ ] shadowing
+- [ ] 背单词
+- [ ] =undef 一英 语法 1
+- [ ] @todo 音标
 
-万维现代文
+> 政治
 
-文言文 +词语积累 || 说明/议论文 素材积累
+- [ ] @todo 填空写完
+- [ ] after:填空写完 背诵 1 课
 
-中华上下五千年
+> 历史
 
-## reciting
+- [ ] 复习 1 单元
 
-1. 语文背诵九上一篇(尝试使用 DOG 方法)
+> 数学
 
-### 复习
+- [ ] 册 1 课
+- [ ] [一数 两课](#math)
 
-1. 语文背诵并默写 半本书 !ipt 春 纪念白求恩 从百草园到三味书屋 假如生活欺骗了你 天上的街市 未选择的路 白杨礼赞
-2. 英语单词 60 + 复习
-3. 历史二单元（能记多少记多少）
+> 物理
 
-## meditation
+- [ ] 册 1 课
+- [ ] =undef 马丁
 
-https://www.bilibili.com/video/BV1Rq4y1F7r4
+> 化学
+
+- [ ] 元素周期表 1 遍
+- [ ] 物质表 1 遍
+- [ ] =undef 课程::元素 （小莫|超人)
+- [ ] after:课程 @todo 知识点
+
+- **21:30** _最晚:22:00_ 睡觉
+
+## Monthly Statistics
+
+每日详细完成度可通过 git 查看
+
+| Day  |                                                                                                                                       STATUS                                                                                                                                       |
+| :--: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| 7.13 |                                                                                                                                      执行失败                                                                                                                                      |
+| 7.14 |                                                                                               大部分完成 浪费大概 2h 时间<br/>得考虑每日选择部分内容 目前时间不太够<br/>做完非常重实                                                                                               |
+| 7.15 |                                                          完成基本内容 浪费大半天; 1. 不能好一天坏一天，要有固定节奏 2. 不要用长视频、连续剧情型视频娱乐，碎片时间可以背单词、背书 3. 少人际交往，说话注意考量，不要想太多                                                          |
+| 7.16 |                                                                     补充昨天内容 还是分心看 bili 了，不过总算了断了 不要陷入懊悔的恶性循环 也还有收获 明天应该会更专注了 已经到下半月了，时间很紧 祈祷 向自己                                                                      |
+| 7.17 |                                   欠的越来越多 一天过的飞快 回看啥也美干 应该专注的学。。总结起来似乎更有紧迫感，也是一种反馈 15 号影响太大了 努力克服 学的时候一定要专心学，考虑专门留时间放松，而不是这样三分打鱼 2.9 分晒网 一切都会好起来的                                    |
+| 7.18 |                                                                           列出来才知道效率有多低 因为不够紧迫，太放松了 还是不专注 应该有一种闲下来学习的观念 至少慢慢的有进展了 一步一步来 找回本我的静                                                                           |
+| 7.19 |                                                                                       不要稍微一好就 欠的帐基本还完了 节奏开始正常了 不要飘啊 静 ； 设置个 ddl，有助于 生产力，针对不够紧迫                                                                                        |
+| 7.20 | 没太飘 继续保持节奏 不要再乱了； 回看前 20 多天 其实啥也没干 每天像做了很多但其实效率特别低 学要专心学 放松专门放松 一直学也不太现实 这样效果回更好；找回“我”找到“静” meditation 是有用的；时刻表没什么 倒是里面的 STATUS 带来的反馈比较直观 所以改为 TODO list 更能清楚自己的球样 |
+| 7.21 |                                                                                                                            <input type = "checkbox" />                                                                                                                             |
+| 7.22 |                                                                                                                            <input type = "checkbox" />                                                                                                                             |
+| 7.23 |                                                                                                                            <input type = "checkbox" />                                                                                                                             |
+| 7.24 |                                                                                                                            <input type = "checkbox" />                                                                                                                             |
+| 7.25 |                                                                                                                            <input type = "checkbox" />                                                                                                                             |
+| 7.26 |                                                                                                                            <input type = "checkbox" />                                                                                                                             |
+| 7.27 |                                                                                                                            <input type = "checkbox" />                                                                                                                             |
+| 7.28 |                                                                                                                            <input type = "checkbox" />                                                                                                                             |
+| 7.29 |                                                                                                                            <input type = "checkbox" />                                                                                                                             |
+| 7.30 |                                                                                                                            <input type = "checkbox" />                                                                                                                             |
+| 7.31 |                                                                                                                            <input type = "checkbox" />                                                                                                                             |
 
 ## exercise
 
-| 周一                                                | 周二         | 周三                           | 周四         | 周五       | 周六         | 周日         |
-| --------------------------------------------------- | ------------ | ------------------------------ | ------------ | ---------- | ------------ | ------------ |
-| $400m \times 3$ <br/>间歇 4min                      | 徒手力量训练 | $400m \times 3$ <br/>间歇 4min | 徒手力量训练 | 轻松跑 3km | 休息         | 1km 模拟测试 |
-| [短跑](https://www.bilibili.com/video/BV1b541187DT) | 俯卧撑       | 立定跳远                       | 俯卧撑       | 随机理论   | 球类技巧训练 | 引体向上     |
+| 周一                 | 周二               | 周三                 | 周四               | 周五       | 周六   | 周日         |
+| -------------------- | ------------------ | -------------------- | ------------------ | ---------- | ------ | ------------ |
+| 法特莱克快慢跑 15min | 法特莱克走跑 30min | 法特莱克快慢跑 15min | 法特莱克走跑 30min | 轻松跑 3km | 球类   | 1km 模拟测试 |
+| 俯卧撑               | 徒手力量训练       | 俯卧撑               | 徒手力量训练       |            | 俯卧撑 |              |
 
 - [跑步拉伸](https://www.bilibili.com/video/BV1hE411V77S)
 
+- [法特莱克快慢跑](https://www.bilibili.com/video/BV1WM4y1L7Rj)
+
+- [法特莱克走跑](https://www.bilibili.com/audio/au2448043)
+
 - [徒手力量训练](https://www.bilibili.com/video/BV1K54y1d76C)
-
-## vocal
-
-- [发声](https://www.bilibili.com/video/BV1vU4y1h7nh)
-
-- [演唱](https://space.bilibili.com/540564177/channel/seriesdetail?sid=217891)
 
 ## computer science
 
@@ -243,13 +244,10 @@ https://www.bilibili.com/video/BV1Rq4y1F7r4
 
 ## math
 
-_暑假先看学过的_
-多做题
-
-- [一数复习](https://www.bilibili.com/video/BV1qE411H7Uv)
-- [一数每日一题](https://www.bilibili.com/video/BV1t7411y7qh)
-- [一数中考重难点](https://space.bilibili.com/14229967/channel/collectiondetail?sid=239001)
-- [一数几何辅助线](https://space.bilibili.com/14229967/channel/collectiondetail?sid=322454)
+- [复习](https://www.bilibili.com/video/BV1qE411H7Uv)
+- [每日一题](https://www.bilibili.com/video/BV1t7411y7qh)
+- [中考重难点](https://space.bilibili.com/14229967/channel/collectiondetail?sid=239001)
+- [几何辅助线](https://space.bilibili.com/14229967/channel/collectiondetail?sid=322454)
 
 ### homework
 
