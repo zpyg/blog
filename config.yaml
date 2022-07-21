@@ -51,7 +51,7 @@ params:
     provider: utterances
 
     utterances:
-      repo: zpyg/blog
+      repo: pu-007/blog
       issueTerm: pathname
       label: comment
 
@@ -112,13 +112,13 @@ menu:
 
     - identifier: github
       name: GitHub
-      url: https://github.com/zpyg
+      url: https://github.com/pu-007
       params:
         icon: brand-github
 
     - identifier: telegram
       name: Telegram
-      url: https://t.me/zpygtg
+      url: https://t.me/pu_007
       params:
         icon: brand-telegram
 
