@@ -27,16 +27,16 @@ task.default = @daily
 
 - **5:30** 起床
 
-- [ ] [meditation](https://www.bilibili.com/video/BV1e5411o7a4)
-- [ ] [exercise](#exercise)
-- [ ] [vocal](https://www.bilibili.com/video/BV1Hq4y1R7yC)
+- [x] [meditation](https://www.bilibili.com/video/BV1e5411o7a4)
+- [x] [exercise](#exercise)
+- [x] [vocal](https://www.bilibili.com/video/BV1Hq4y1R7yC)
 - [ ] @todo 计算机科学::python built-in modules
 - [ ] @todo 计算机科学::algorithms
 - [ ] 计算机科学 leetcode 1
 
 > 语文
 
-- [ ] @todo 艾青诗选
+- [-] @todo 艾青诗选
 - [ ] 背诵 九上 2
 - [ ] 背诵 七八 2 !ipt 春 纪念白求恩 从百草园到三味书屋 假如生活欺骗了你 天上的街市 未选择的路 白杨礼赞
 
@@ -48,8 +48,7 @@ task.default = @daily
 - [ ] 作文句子 1
 - [ ] 议论文素材 1
 
-- [ ] 练字 {偏旁、笔画}
-- [ ] 练字 字帖 楷书 1
+- [x] 练字 {偏旁、笔画、字帖}
 
 - [ ] after:课内名著 读书课外
 
@@ -61,13 +60,13 @@ task.default = @daily
 - [ ] 册 4 页
 - [ ] 临贴 1
 - [ ] shadowing
-- [ ] 背单词
+- [x] 背单词
 - [ ] =undef 一英 语法 1
 - [ ] @todo 音标
 
 > 政治
 
-- [ ] @todo 填空写完
+- [-] @todo 填空写完
 - [ ] after:填空写完 背诵 1 课
 
 > 历史
@@ -81,7 +80,7 @@ task.default = @daily
 
 > 物理
 
-- [ ] 册 1 课
+- [x] 册 1 课
 - [ ] =undef 马丁
 
 > 化学

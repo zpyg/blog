@@ -8,6 +8,8 @@ tags: [algorithms, leetcode, python]
 math: true
 ---
 
+https://www.bilibili.com/video/BV1sy4y1q79M
+
 ## 1. 两数之和
 
 > 有人相爱，有人夜里开车看海，有人 leetcode 第一题都做不出来。
@@ -194,9 +196,9 @@ class Solution:
             nums[i] = 0
 ```
 
-### 27. 移除元素
+#### 27. 移除元素
 
-#### 类似 283
+##### 类似 283
 
 ```python
 class Solution:
