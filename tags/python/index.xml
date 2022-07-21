@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python on pu's blog</title><link>https://zpyg.github.io/blog/tags/python/</link><description>Recent content in Python on pu's blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sat, 16 Jul 2022 11:53:30 +0800</lastBuildDate><atom:link href="https://zpyg.github.io/blog/tags/python/index.xml" rel="self" type="application/rss+xml"/><item><title>Leetcode 刷题 1</title><link>https://zpyg.github.io/blog/p/leetcode-%E5%88%B7%E9%A2%98-1/</link><pubDate>Sat, 16 Jul 2022 11:53:30 +0800</pubDate><guid>https://zpyg.github.io/blog/p/leetcode-%E5%88%B7%E9%A2%98-1/</guid><description>&lt;h2 id="1-两数之和">1. 两数之和&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python on pu's blog</title><link>https://pu-007.github.io/blog/tags/python/</link><description>Recent content in Python on pu's blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sun, 17 Jul 2022 20:56:23 +0800</lastBuildDate><atom:link href="https://pu-007.github.io/blog/tags/python/index.xml" rel="self" type="application/rss+xml"/><item><title>Leetcode 刷题 2</title><link>https://pu-007.github.io/blog/p/leetcode-%E5%88%B7%E9%A2%98-2/</link><pubDate>Sun, 17 Jul 2022 20:56:23 +0800</pubDate><guid>https://pu-007.github.io/blog/p/leetcode-%E5%88%B7%E9%A2%98-2/</guid><description/></item><item><title>Leetcode 刷题 1</title><link>https://pu-007.github.io/blog/p/leetcode-%E5%88%B7%E9%A2%98-1/</link><pubDate>Sat, 16 Jul 2022 11:53:30 +0800</pubDate><guid>https://pu-007.github.io/blog/p/leetcode-%E5%88%B7%E9%A2%98-1/</guid><description>&lt;p>&lt;a class="link" href="https://www.bilibili.com/video/BV1sy4y1q79M" target="_blank" rel="noopener"
+>https://www.bilibili.com/video/BV1sy4y1q79M&lt;/a>&lt;/p>
+&lt;h2 id="1-两数之和">1. 两数之和&lt;/h2>
 &lt;blockquote>
 &lt;p>有人相爱，有人夜里开车看海，有人 leetcode 第一题都做不出来。&lt;/p>
 &lt;/blockquote>
@@ -269,8 +271,8 @@ O(n) 空间，一维数组等
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> nums[i] &lt;span style="color:#fe8019">=&lt;/span> &lt;span style="color:#d3869b">0&lt;/span>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
-&lt;/div>&lt;h3 id="27-移除元素">27. 移除元素&lt;/h3>
-&lt;h4 id="类似-283">类似 283&lt;/h4>
+&lt;/div>&lt;h4 id="27-移除元素">27. 移除元素&lt;/h4>
+&lt;h5 id="类似-283">类似 283&lt;/h5>
 &lt;div class="highlight">&lt;div style="color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
 &lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
 &lt;pre tabindex="0" style="color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#756d59"> 1
@@ -336,9 +338,9 @@ O(n) 空间，一维数组等
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#fe8019">return&lt;/span> l &lt;span style="color:#fe8019">if&lt;/span> nums[l] &lt;span style="color:#fe8019">==&lt;/span> val &lt;span style="color:#fe8019">else&lt;/span> l &lt;span style="color:#fe8019">+&lt;/span> &lt;span style="color:#d3869b">1&lt;/span>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
-&lt;/div></description></item><item><title>CS61A Chapter 1:Building Abstractions with Functions</title><link>https://zpyg.github.io/blog/p/cs61a-chapter-1building-abstractions-with-functions/</link><pubDate>Thu, 07 Jul 2022 20:13:47 +0800</pubDate><guid>https://zpyg.github.io/blog/p/cs61a-chapter-1building-abstractions-with-functions/</guid><description>&lt;h2 id="functions">Functions&lt;/h2>
+&lt;/div></description></item><item><title>CS61A Chapter 1:Building Abstractions with Functions</title><link>https://pu-007.github.io/blog/p/cs61a-chapter-1building-abstractions-with-functions/</link><pubDate>Thu, 07 Jul 2022 20:13:47 +0800</pubDate><guid>https://pu-007.github.io/blog/p/cs61a-chapter-1building-abstractions-with-functions/</guid><description>&lt;h2 id="functions">Functions&lt;/h2>
 &lt;h2 id="expressions">Expressions&lt;/h2>
-&lt;h2 id="environments">Environments&lt;/h2></description></item><item><title>CS61A 课程资源</title><link>https://zpyg.github.io/blog/p/cs61a-%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%BA%90/</link><pubDate>Wed, 06 Jul 2022 18:00:54 +0800</pubDate><guid>https://zpyg.github.io/blog/p/cs61a-%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%BA%90/</guid><description>&lt;ul>
+&lt;h2 id="environments">Environments&lt;/h2></description></item><item><title>CS61A 课程资源</title><link>https://pu-007.github.io/blog/p/cs61a-%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%BA%90/</link><pubDate>Wed, 06 Jul 2022 18:00:54 +0800</pubDate><guid>https://pu-007.github.io/blog/p/cs61a-%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%BA%90/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;a class="link" href="https://inst.eecs.berkeley.edu/~cs61a/sp21/" target="_blank" rel="noopener"
 >website&lt;/a>&lt;/p>

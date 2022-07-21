@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Life on pu's blog</title><link>https://zpyg.github.io/blog/categories/life/</link><description>Recent content in Life on pu's blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Tue, 28 Jun 2022 19:38:24 +0800</lastBuildDate><atom:link href="https://zpyg.github.io/blog/categories/life/index.xml" rel="self" type="application/rss+xml"/><item><title>Vacation Plan</title><link>https://zpyg.github.io/blog/p/vacation-plan/</link><pubDate>Tue, 28 Jun 2022 19:38:24 +0800</pubDate><guid>https://zpyg.github.io/blog/p/vacation-plan/</guid><description>&lt;blockquote>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Life on pu's blog</title><link>https://pu-007.github.io/blog/categories/life/</link><description>Recent content in Life on pu's blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Tue, 28 Jun 2022 19:38:24 +0800</lastBuildDate><atom:link href="https://pu-007.github.io/blog/categories/life/index.xml" rel="self" type="application/rss+xml"/><item><title>Vacation Plan</title><link>https://pu-007.github.io/blog/p/vacation-plan/</link><pubDate>Tue, 28 Jun 2022 19:38:24 +0800</pubDate><guid>https://pu-007.github.io/blog/p/vacation-plan/</guid><description>&lt;blockquote>
 &lt;p>我的故事讲到哪了？&lt;/p>
 &lt;/blockquote>
 &lt;center>静&lt;/center>
@@ -30,14 +30,14 @@
 &lt;p>&lt;strong>5:30&lt;/strong> 起床&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;input disabled="" type="checkbox"> &lt;a class="link" href="https://www.bilibili.com/video/BV1e5411o7a4" target="_blank" rel="noopener"
+&lt;p>&lt;input checked="" disabled="" type="checkbox"> &lt;a class="link" href="https://www.bilibili.com/video/BV1e5411o7a4" target="_blank" rel="noopener"
 >meditation&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;input disabled="" type="checkbox"> &lt;a class="link" href="#exercise" >exercise&lt;/a>&lt;/p>
+&lt;p>&lt;input checked="" disabled="" type="checkbox"> &lt;a class="link" href="#exercise" >exercise&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;input disabled="" type="checkbox"> &lt;a class="link" href="https://www.bilibili.com/video/BV1Hq4y1R7yC" target="_blank" rel="noopener"
+&lt;p>&lt;input checked="" disabled="" type="checkbox"> &lt;a class="link" href="https://www.bilibili.com/video/BV1Hq4y1R7yC" target="_blank" rel="noopener"
 >vocal&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
@@ -55,7 +55,7 @@
 &lt;/blockquote>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;input disabled="" type="checkbox"> @todo 艾青诗选&lt;/p>
+&lt;p>[-] @todo 艾青诗选&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;input disabled="" type="checkbox"> 背诵 九上 2&lt;/p>
@@ -85,10 +85,7 @@
 &lt;p>&lt;input disabled="" type="checkbox"> 议论文素材 1&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;input disabled="" type="checkbox"> 练字 {偏旁、笔画}&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;input disabled="" type="checkbox"> 练字 字帖 楷书 1&lt;/p>
+&lt;p>&lt;input checked="" disabled="" type="checkbox"> 练字 {偏旁、笔画、字帖}&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;input disabled="" type="checkbox"> after:课内名著 读书课外&lt;/p>
@@ -107,7 +104,7 @@
 &lt;li>&lt;input disabled="" type="checkbox"> 册 4 页&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> 临贴 1&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> shadowing&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> 背单词&lt;/li>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> 背单词&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> =undef 一英 语法 1&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> @todo 音标&lt;/li>
 &lt;/ul>
@@ -115,7 +112,7 @@
 &lt;p>政治&lt;/p>
 &lt;/blockquote>
 &lt;ul>
-&lt;li>&lt;input disabled="" type="checkbox"> @todo 填空写完&lt;/li>
+&lt;li>[-] @todo 填空写完&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> after:填空写完 背诵 1 课&lt;/li>
 &lt;/ul>
 &lt;blockquote>
@@ -135,7 +132,7 @@
 &lt;p>物理&lt;/p>
 &lt;/blockquote>
 &lt;ul>
-&lt;li>&lt;input disabled="" type="checkbox"> 册 1 课&lt;/li>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> 册 1 课&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> =undef 马丁&lt;/li>
 &lt;/ul>
 &lt;blockquote>
@@ -979,7 +976,7 @@ allowfullscreen="true"
 &lt;/ol>
 &lt;!--
 vim: nospell:nowrap:foldmethod=marker
---></description></item><item><title>入团申请书</title><link>https://zpyg.github.io/blog/p/%E5%85%A5%E5%9B%A2%E7%94%B3%E8%AF%B7%E4%B9%A6/</link><pubDate>Sun, 24 Apr 2022 23:44:00 +0800</pubDate><guid>https://zpyg.github.io/blog/p/%E5%85%A5%E5%9B%A2%E7%94%B3%E8%AF%B7%E4%B9%A6/</guid><description>&lt;h1 align="center"> 入团申请书 &lt;/h1>
+--></description></item><item><title>入团申请书</title><link>https://pu-007.github.io/blog/p/%E5%85%A5%E5%9B%A2%E7%94%B3%E8%AF%B7%E4%B9%A6/</link><pubDate>Sun, 24 Apr 2022 23:44:00 +0800</pubDate><guid>https://pu-007.github.io/blog/p/%E5%85%A5%E5%9B%A2%E7%94%B3%E8%AF%B7%E4%B9%A6/</guid><description>&lt;h1 align="center"> 入团申请书 &lt;/h1>
 &lt;p>尊敬的团组织:&lt;/p>
 &lt;div style="text-indent: 2em;">
 &lt;p>我志愿加入中国共产主义青年团。&lt;/p>
