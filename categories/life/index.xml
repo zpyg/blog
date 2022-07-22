@@ -5,23 +5,29 @@
 &lt;h2 id="todo-list">TODO list&lt;/h2>
 &lt;div class="highlight">&lt;div style="color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
 &lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
-&lt;pre tabindex="0" style="color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#756d59">1
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#756d59">2
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#756d59">3
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#756d59">4
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#756d59">5
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#756d59">6
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#756d59">7
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#756d59">8
+&lt;pre tabindex="0" style="color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#756d59"> 1
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#756d59"> 2
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#756d59"> 3
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#756d59"> 4
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#756d59"> 5
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#756d59"> 6
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#756d59"> 7
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#756d59"> 8
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#756d59"> 9
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#756d59">10
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#756d59">11
 &lt;/span>&lt;/code>&lt;/pre>&lt;/td>
 &lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
 &lt;pre tabindex="0" style="color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-fallback" data-lang="fallback">&lt;span style="display:flex;">&lt;span>task.default = @daily
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>专注地完成 3 项 就放松地休息 20min
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>专注地完成 3 项 就放松地休息 20min(总和小于 1h30min)
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>@first {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>@first { 明天就可以搞完了
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> 艾青诗选
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> 政治填空
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> python
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> 背诵
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> 积累
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
@@ -67,7 +73,7 @@
 &lt;p>&lt;input disabled="" type="checkbox"> 册 1&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;input disabled="" type="checkbox"> 听写 1&lt;/p>
+&lt;p>&lt;input checked="" disabled="" type="checkbox"> 听写 1&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;input disabled="" type="checkbox"> 万维 1&lt;/p>
@@ -101,9 +107,9 @@
 &lt;p>英语&lt;/p>
 &lt;/blockquote>
 &lt;ul>
-&lt;li>&lt;input disabled="" type="checkbox"> 册 4 页&lt;/li>
+&lt;li>[-] 册 4 页&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> 临贴 1&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> shadowing&lt;/li>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> shadowing&lt;/li>
 &lt;li>&lt;input checked="" disabled="" type="checkbox"> 背单词&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> =undef 一英 语法 1&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> @todo 音标&lt;/li>
@@ -199,7 +205,7 @@
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">7.21&lt;/td>
-&lt;td style="text-align:center">&lt;input type = "checkbox" />&lt;/td>
+&lt;td style="text-align:center">明天必须背课文 学化学 还有好多没整完啊 可以专注学习了 但是放松的时间太多了 主要花费在剧和网 加起来都超过 4h 了 ；加个倒计时 限制在 1h30min 所有的娱乐 30min 社交&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">7.22&lt;/td>
