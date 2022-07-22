@@ -587,7 +587,7 @@ O(n) 空间，一维数组等
 >meditation&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;input checked="" disabled="" type="checkbox"> &lt;a class="link" href="#exercise" >exercise&lt;/a>&lt;/p>
+&lt;p>&lt;input disabled="" type="checkbox"> &lt;a class="link" href="#exercise" >exercise&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;input checked="" disabled="" type="checkbox"> &lt;a class="link" href="https://www.bilibili.com/video/BV1Hq4y1R7yC" target="_blank" rel="noopener"
@@ -608,16 +608,13 @@ O(n) 空间，一维数组等
 &lt;/blockquote>
 &lt;ul>
 &lt;li>
-&lt;p>[-] @todo 艾青诗选&lt;/p>
+&lt;p>[-] 背诵 九上 2&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;input disabled="" type="checkbox"> 背诵 九上 2&lt;/p>
+&lt;p>[-] 背诵 七八 2 !ipt 春 纪念白求恩 从百草园到三味书屋 假如生活欺骗了你 天上的街市 未选择的路 白杨礼赞&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;input disabled="" type="checkbox"> 背诵 七八 2 !ipt 春 纪念白求恩 从百草园到三味书屋 假如生活欺骗了你 天上的街市 未选择的路 白杨礼赞&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;input disabled="" type="checkbox"> 册 1&lt;/p>
+&lt;p>&lt;input checked="" disabled="" type="checkbox"> 册 1&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;input checked="" disabled="" type="checkbox"> 听写 1&lt;/p>
@@ -655,8 +652,7 @@ O(n) 空间，一维数组等
 &lt;/blockquote>
 &lt;ul>
 &lt;li>[-] 册 4 页&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> 临贴 1&lt;/li>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> shadowing&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> shadowing&lt;/li>
 &lt;li>&lt;input checked="" disabled="" type="checkbox"> 背单词&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> =undef 一英 语法 1&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> @todo 音标&lt;/li>
@@ -665,7 +661,6 @@ O(n) 空间，一维数组等
 &lt;p>政治&lt;/p>
 &lt;/blockquote>
 &lt;ul>
-&lt;li>[-] @todo 填空写完&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> after:填空写完 背诵 1 课&lt;/li>
 &lt;/ul>
 &lt;blockquote>
@@ -678,7 +673,7 @@ O(n) 空间，一维数组等
 &lt;p>数学&lt;/p>
 &lt;/blockquote>
 &lt;ul>
-&lt;li>&lt;input disabled="" type="checkbox"> 册 1 课&lt;/li>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> 册 1 课&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> &lt;a class="link" href="#math" >一数 两课&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;blockquote>
@@ -756,7 +751,7 @@ O(n) 空间，一维数组等
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">7.22&lt;/td>
-&lt;td style="text-align:center">&lt;input type = "checkbox" />&lt;/td>
+&lt;td style="text-align:center">等到这段浑噩的日子过去，就 3 天，到 25 日，我会清醒，I‘m that, 就学着写日记和读书吧；认识到人格与人际交往的问题或许那就是所谓“高敏感”？得学会适当客观化别人 不伤害自己 不伤害他人，但不会丧失公情、不会失去正义； 这些天其实每天都是浑浑噩噩的 仔细看前几天写的 每天都有问题 从来没真正的好过 只是把不想学推到了调整计划上 以此为借口罢了；不要再这样了 否则只会虚度年华而悔恨 不要虚无 不要以为在此写下就了事 要实际行动 23 号 [ ] check 一下它，如果做到了&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">7.23&lt;/td>
